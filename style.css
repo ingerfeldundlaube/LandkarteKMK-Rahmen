@@ -347,3 +347,71 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 .seitenfuss-zu { position: absolute; top: 8px; right: 10px; padding: 0 6px; font-size: 1.3rem; line-height: 1; color: #6b7a71; background: none; border: 0; cursor: pointer; }
 .seitenfuss .zitat { padding: 6px 10px; background: var(--gruen-hell); border-left: 3px solid var(--gruen-rand); }
 .am-stueck { white-space: nowrap; }
+
+/* ---------------------------------------------------------
+   MENÜ „INFORMATIONEN“ AUF DER LANDKARTE
+   --------------------------------------------------------- */
+.info-menue {
+  position: absolute;
+  left: calc(1900 * var(--u)); top: calc(110 * var(--u));
+  z-index: 5;
+}
+.info-menue .info { position: static; cursor: pointer; list-style: none; }
+.info-menue .info::-webkit-details-marker { display: none; }
+.info-menue[open] .info { background: var(--gruen-hell); }
+.info-menue[open] .info .pfeil { transform: rotate(180deg); }
+.info-liste {
+  position: absolute; right: 0; top: 100%;
+  margin: calc(8 * var(--u)) 0 0; padding: calc(8 * var(--u));
+  list-style: none;
+  width: calc(400 * var(--u)); min-width: 230px;
+  background: var(--weiss);
+  border: 2px solid var(--gruen-rand);
+  border-radius: 14px;
+  box-shadow: 0 10px 28px rgba(11, 74, 44, .18);
+}
+.info-liste a {
+  display: block; padding: 10px 14px; border-radius: 10px;
+  font-weight: 700; font-size: max(14px, calc(21 * var(--u)));
+  text-decoration: none; color: var(--gruen-dunkel);
+}
+.info-liste a:hover, .info-liste a:focus-visible { background: var(--gruen-hell); }
+
+/* Reiter auf den Informationsseiten */
+.reiter { margin: -12px 0 28px; }
+.reiter ul { display: flex; flex-wrap: wrap; gap: 6px; margin: 0; padding: 0 0 0; list-style: none; border-bottom: 2px solid var(--gruen-rand); }
+.reiter a {
+  display: block; padding: 10px 16px;
+  font-weight: 700; text-decoration: none; color: var(--gruen-dunkel);
+  background: var(--gruen-hell);
+  border: 2px solid var(--gruen-rand); border-bottom: 0;
+  border-radius: 12px 12px 0 0;
+  margin-bottom: -2px;
+}
+.reiter a:hover { background: var(--gruen-hover); }
+.reiter a[aria-current="page"] { background: var(--weiss); border-bottom: 2px solid var(--weiss); }
+
+/* So arbeiten Sie mit der Landkarte */
+.erklaerfilm { margin: 0 0 32px; }
+.erklaerfilm video { width: 100%; border-radius: 16px; border: 2px solid var(--gruen-rand); }
+.video-hinweis { font-size: 14px; color: #4b6152; }
+.video-platzhalter .play {
+  display: inline-grid; place-items: center;
+  width: 64px; height: 64px; border-radius: 50%;
+  background: var(--gruen-mittel); color: var(--weiss); font-size: 26px; padding-left: 4px;
+}
+.schritte { list-style: none; margin: 0; padding: 0; display: grid; gap: 22px; }
+.schritt {
+  display: grid; grid-template-columns: minmax(0, 46%) 1fr; gap: 24px; align-items: center;
+  padding: 18px; border: 2px solid var(--gruen-rand); border-radius: 20px;
+}
+.schritt img { width: 100%; border-radius: 12px; border: 1px solid #e3eed6; display: block; }
+.schritt h2 { margin: 6px 0 6px; font-size: 21px; color: var(--gruen-dunkel); }
+.schritt p { margin: 0; }
+.schritt-nr {
+  display: inline-grid; place-items: center; width: 40px; height: 40px; border-radius: 50%;
+  background: var(--gruen-mittel); color: var(--weiss); font-weight: 700; font-size: 20px;
+}
+@media (max-width: 680px) { .schritt { grid-template-columns: 1fr; } }
+
+.kachel span.herkunft { display: block; font-size: 14px; color: var(--gruen-mittel); font-weight: 700; margin: 2px 0 4px; }

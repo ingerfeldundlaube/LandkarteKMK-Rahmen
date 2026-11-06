@@ -24,3 +24,15 @@
     z.addEventListener('click', schliesseAlle);
   });
 })();
+
+/* Menü „Informationen“: schließt bei Klick daneben oder mit Esc */
+(function () {
+  var menue = document.querySelector('.info-menue');
+  if (!menue) return;
+  document.addEventListener('click', function (ev) {
+    if (menue.open && !menue.contains(ev.target)) menue.open = false;
+  });
+  document.addEventListener('keydown', function (ev) {
+    if (ev.key === 'Escape' && menue.open) { menue.open = false; menue.querySelector('summary').focus(); }
+  });
+})();
