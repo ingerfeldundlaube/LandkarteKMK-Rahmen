@@ -45,7 +45,6 @@ a { color: var(--gruen-dunkel); }
   max-width: 1500px;
   margin: 0 auto;
   padding: 16px;
-  container-type: inline-size;
 }
 
 .karte {
@@ -194,24 +193,12 @@ a { color: var(--gruen-dunkel); }
 }
 .info .pfeil { width: calc(32 * var(--u)); height: calc(32 * var(--u)); margin-left: calc(14 * var(--u)); }
 
-/* Mittlere und schmale Bildschirme: Inseln als Raster bzw. untereinander */
-@media (max-width: 1180px) {
-  .karte-rahmen { container-type: normal; }
-  .karte { --u: 0.6px; aspect-ratio: auto; display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
-  .stege { display: none; }
-  .insel, .mitte, .info { position: static; width: auto; height: auto; }
-  .insel { padding: 20px; }
-  .insel h2 { font-size: 19px; }
-  .insel .unterzeile, .knopf { font-size: 15px; }
-  .knopf { height: 52px; }
-  .mitte { order: -1; grid-column: 1 / -1; padding: 28px 16px; }
-  .mitte h1 { font-size: 34px; }
-  .mitte .knopf { width: 100%; max-width: 320px; }
-  .info { order: -2; grid-column: 1 / -1; justify-self: end; font-size: 15px; }
-}
-@media (max-width: 680px) {
-  .karte { grid-template-columns: 1fr; gap: 18px; }
-  .mitte h1 { font-size: 30px; }
+/* Schmale Bildschirme: Die Landkarte behält ihre Form und lässt sich seitlich verschieben */
+.karte-buehne { container-type: inline-size; min-width: 980px; }
+.wisch-hinweis { display: none; margin: 0 0 8px; font-size: 14px; color: #4b6152; }
+@media (max-width: 1012px) {
+  .karte-rahmen { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .wisch-hinweis { display: block; }
 }
 
 /* ---------------------------------------------------------
@@ -341,3 +328,22 @@ a { color: var(--gruen-dunkel); }
 }
 
 h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px; }
+
+/* ---------------------------------------------------------
+   SEITENFUSS (wie in KI-Kompetenzen)
+   --------------------------------------------------------- */
+.seitenfuss { max-width: 1500px; margin: 28px auto 0; padding: 16px 20px 24px; color: #4f6156; font-size: 0.88rem; border-top: 1px solid #d5e3d9; }
+.seite + .seitenfuss { max-width: 960px; }
+.seitenfuss-leiste { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px 24px; }
+.seitenfuss-zeile { margin: 0; }
+.seitenfuss a { color: var(--gruen-dunkel); }
+.seitenfuss-verweise { display: flex; gap: 4px; }
+.seitenfuss-verweise button { padding: 4px 10px; font: inherit; color: var(--gruen-dunkel); background: none; border: 0; border-radius: 999px; cursor: pointer; text-decoration: underline; text-decoration-color: var(--gruen-rand); text-underline-offset: 3px; }
+.seitenfuss-verweise button:hover, .seitenfuss-verweise button[aria-expanded="true"] { background: var(--gruen-hell); text-decoration: none; }
+.seitenfuss-text { position: relative; margin-top: 12px; padding: 16px 44px 12px 18px; background: #fafcf7; border: 1px solid #e3eed6; border-radius: 12px; }
+.seitenfuss-text[hidden] { display: none; }
+.seitenfuss-text h2 { margin: 0 0 8px; font-size: 1rem; color: var(--gruen-dunkel); }
+.seitenfuss-text p { max-width: 900px; margin: 6px 0; line-height: 1.45; }
+.seitenfuss-zu { position: absolute; top: 8px; right: 10px; padding: 0 6px; font-size: 1.3rem; line-height: 1; color: #6b7a71; background: none; border: 0; cursor: pointer; }
+.seitenfuss .zitat { padding: 6px 10px; background: var(--gruen-hell); border-left: 3px solid var(--gruen-rand); }
+.am-stueck { white-space: nowrap; }
