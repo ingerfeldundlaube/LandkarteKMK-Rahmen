@@ -442,7 +442,8 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
   z-index: 4;
 }
 .routen-kopf {
-  display: flex; align-items: center; justify-content: flex-start; gap: calc(12 * var(--u));
+  display: flex; flex-wrap: nowrap; align-items: center; justify-content: flex-start; gap: calc(12 * var(--u));
+  white-space: nowrap;
   margin: 0 0 calc(10 * var(--u));
   min-height: calc(40 * var(--u));
   font-size: calc(21.5 * var(--u)); font-weight: 700; color: var(--gruen-dunkel);
@@ -545,3 +546,9 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 .knopf-app .kreis { color: var(--gruen-mittel); border-color: var(--weiss); }
 .routen-lesen { font-size: calc(18 * var(--u)); font-weight: 700; color: var(--gruen-dunkel); }
 .routen-lesen[hidden] { display: none; }
+
+/* Kopfzeile der Routen bleibt einzeilig */
+.routen-titel { overflow: hidden; text-overflow: ellipsis; min-width: 0; }
+.routen-start, .routen-lesen { flex: none; }
+/* Gewählte Route: kleines × zeigt, dass ein zweiter Klick die Karte wieder grün macht */
+.routen-knoepfe button[aria-pressed="true"]::after { content: '×'; margin-left: calc(4 * var(--u)); font-size: 1.2em; line-height: 1; }
