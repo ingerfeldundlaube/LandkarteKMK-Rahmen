@@ -586,7 +586,7 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 .auswahl-knoepfe.bereiche { grid-template-columns: repeat(3, minmax(0, 1fr)); grid-auto-rows: 1fr; }
 @media (max-width: 760px) { .auswahl-knoepfe.bereiche { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 .auswahl-knopf.bereich {
-  display: grid; grid-template-columns: 40px 1fr; align-items: center; gap: 10px;
+  display: grid; grid-template-columns: 40px 1fr auto; align-items: center; gap: 10px;
   padding: 10px 12px; border-radius: 12px; min-height: 64px;
 }
 .auswahl-knopf.bereich:hover, .auswahl-knopf.bereich:focus-visible { background: var(--gruen-hell); border-color: var(--gruen-mittel); }
@@ -595,7 +595,7 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 .bereich-text { line-height: 1.25; }
 .mini-nr {
   display: inline-grid; place-items: center; flex: none; width: 22px; height: 22px; border-radius: 50%;
-  background: var(--gruen-mittel); color: var(--weiss); font-size: 12px; margin-right: 6px; vertical-align: 1px;
+  background: var(--gruen-mittel); color: var(--weiss); font-size: 12px;
 }
 .kreis.ais { font-weight: 700; font-size: 15px; color: var(--gruen-mittel); }
 
@@ -625,3 +625,7 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 .faq-antwort { padding: 4px 18px 14px; }
 .faq-antwort p { margin: 8px 0 0; max-width: 72ch; }
 .faq-weiter { margin-top: 32px; grid-template-columns: 48px 1fr 28px; }
+
+/* Mitte der Landkarte: Einstieg ins Unterstützungsmaterial dunkelgrün */
+.mitte .knopf-mitte { background: var(--gruen-mittel); border-color: var(--gruen-mittel); color: var(--weiss); }
+.mitte .knopf-mitte:hover, .mitte .knopf-mitte:focus-visible { background: var(--gruen-dunkel); border-color: var(--gruen-dunkel); }
