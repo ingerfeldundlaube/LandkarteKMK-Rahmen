@@ -595,3 +595,20 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 .textlinks a { font-weight: 700; color: var(--gruen-dunkel); text-decoration: underline; text-decoration-color: var(--gruen-rand); text-underline-offset: calc(5 * var(--u)); }
 .textlinks a:hover, .textlinks a:focus-visible { text-decoration-color: var(--gruen-dunkel); }
 .textlinks span { color: var(--gruen-rand); }
+
+/* Häufige Fragen */
+.faq-gruppe { display: grid; gap: 10px; margin-bottom: 8px; }
+.faq-eintrag { border: 2px solid var(--gruen-rand); border-radius: 14px; background: var(--weiss); }
+.faq-eintrag summary {
+  display: flex; justify-content: space-between; align-items: center; gap: 16px;
+  padding: 14px 18px; cursor: pointer; list-style: none;
+  font-weight: 700; font-size: 17px; color: var(--gruen-dunkel);
+}
+.faq-eintrag summary::-webkit-details-marker { display: none; }
+.faq-eintrag summary::after { content: '+'; flex: none; font-size: 24px; line-height: 1; color: var(--gruen-mittel); }
+.faq-eintrag[open] summary::after { content: '–'; }
+.faq-eintrag[open] summary { border-bottom: 1px solid #e3eed6; }
+.faq-eintrag summary:hover { background: var(--gruen-hell); border-radius: 12px; }
+.faq-antwort { padding: 4px 18px 14px; }
+.faq-antwort p { margin: 8px 0 0; max-width: 72ch; }
+.faq-weiter { margin-top: 32px; grid-template-columns: 48px 1fr 28px; }
