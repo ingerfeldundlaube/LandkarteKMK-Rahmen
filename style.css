@@ -647,3 +647,13 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 .app-einstieg:hover, .app-einstieg:focus-visible { background: #d2e5bc; }
 .app-einstieg .kreis { border: 2px solid var(--gruen-rand); }
 .app-einstieg .zusatz { opacity: 1; }
+
+/* FAQ: Gruppenüberschriften deutlich abgesetzt */
+.faq-titel {
+  display: flex; align-items: baseline; gap: 12px;
+  margin: 44px 0 14px; padding: 4px 0 4px 14px;
+  border-left: 6px solid var(--gruen-mittel);
+  font-size: 23px;
+}
+.faq-titel:first-of-type { margin-top: 8px; }
+.faq-anzahl { font-size: 14px; font-weight: 700; color: var(--gruen-mittel); }
