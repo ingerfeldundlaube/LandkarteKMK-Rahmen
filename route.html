@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Route durch alle Kompetenzbereiche</title>
+<meta name="description" content="">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="seite route-seite">
+<a class="zurueck" href="index.html"><svg viewBox="0 0 32 32" aria-hidden="true"><path d="M28 16H6M15 7l-9 9 9 9" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg> Zur Landkarte</a>
+<header class="kopf ohne-nummer route-kopf">
+  <div>
+    <div class="rubrik">Route durch alle Kompetenzbereiche</div>
+    <h1 id="route-titel">Route</h1>
+    <p class="unterzeile">Alle sechs Kompetenzbereiche aus einer Perspektive: Entwicklungsraster, Reflexionsanlässe und Entwicklungsimpulse der Reflexionskarten</p>
+  </div>
+</header>
+<nav class="reiter route-reiter" aria-label="Perspektive wählen"><ul><li><a href="#lernende" data-route="lernende">Lernende</a></li><li><a href="#lehrkraefte" data-route="lehrkraefte">Lehrkräfte</a></li><li><a href="#schulentwicklung" data-route="schulentwicklung">Schul- und Unterrichtsentwicklung</a></li><li><a href="#pruefungskultur" data-route="pruefungskultur">Anschluss an Prüfungskultur</a></li></ul></nav>
+<nav class="stationen" aria-label="Stationen der Route"></nav>
+<div id="route-inhalt" aria-live="polite"><p class="platzhalter">Die Route wird geladen …</p></div>
+<p class="route-quelle"></p>
+</main>
+<script>
+window.ROUTE_BEREICHE = [{"nr": "1", "titel": "Suchen, Verarbeiten und Aufbewahren", "untertitel": "Mit KI bewusst umgehen", "teil": [{"nr": "1.1", "titel": "Suchen und Filtern"}, {"nr": "1.2", "titel": "Auswerten und Bewerten"}, {"nr": "1.3", "titel": "Speichern und Abrufen"}]}, {"nr": "2", "titel": "Kommunizieren und Kooperieren", "untertitel": "KI kreativ anwenden und KI gezielt einsetzen", "teil": [{"nr": "2.1", "titel": "Interagieren"}, {"nr": "2.2", "titel": "Teilen"}, {"nr": "2.3", "titel": "Zusammenarbeiten"}, {"nr": "2.4", "titel": "Umgangsregeln kennen und einhalten"}, {"nr": "2.5", "titel": "An der Gesellschaft aktiv teilhaben"}]}, {"nr": "3", "titel": "Produzieren und Präsentieren", "untertitel": "KI kreativ anwenden und KI aktiv mitgestalten", "teil": [{"nr": "3.1", "titel": "Entwickeln und Produzieren"}, {"nr": "3.2", "titel": "Weiterverarbeiten und Integrieren"}, {"nr": "3.3", "titel": "Rechtliche Vorgaben beachten"}]}, {"nr": "4", "titel": "Schützen und sicher Agieren", "untertitel": "Mit KI bewusst umgehen und KI gezielt einsetzen", "teil": [{"nr": "4.1", "titel": "Sicher in digitalen Umgebungen agieren"}, {"nr": "4.2", "titel": "Persönliche Daten und Privatsphäre schützen"}, {"nr": "4.3", "titel": "Selbstregulation und soziale Kompetenzen entwickeln"}, {"nr": "4.4", "titel": "Natur und Umwelt schützen"}]}, {"nr": "5", "titel": "Problemlösen und Handeln", "untertitel": "KI gezielt einsetzen und KI aktiv mitgestalten", "teil": [{"nr": "5.1", "titel": "Technische Probleme lösen"}, {"nr": "5.2", "titel": "Digitale Technologien bedarfsgerecht einsetzen"}, {"nr": "5.3", "titel": "Eigene Stärken und Entwicklungsbereiche ermitteln und gezielt Strategien entwickeln"}, {"nr": "5.4", "titel": "Digitale Werkzeuge und Medien zum Lernen, Arbeiten und Problemlösen nutzen"}, {"nr": "5.5", "titel": "Algorithmen erkennen und formulieren"}]}, {"nr": "6", "titel": "Analysieren und Reflektieren", "untertitel": "Mit KI bewusst umgehen", "teil": [{"nr": "6.1", "titel": "Digitale Medien und Medienlogiken analysieren und bewerten"}, {"nr": "6.2", "titel": "Gesellschaftliche Wirkungen digitaler Medien verstehen und reflektieren"}]}];
+window.ROUTE_PERSPEKTIVEN = [{"key": "lernende", "kurz": "Lernende", "name": "Lernende", "farbe": "#0565bd"}, {"key": "lehrkraefte", "kurz": "Lehrkräfte", "name": "Lehrkräfte", "farbe": "#f76e0b"}, {"key": "schulentwicklung", "kurz": "Schulentwicklung", "name": "Schul- und Unterrichtsentwicklung", "farbe": "#c91a29"}, {"key": "pruefungskultur", "kurz": "Prüfungskultur", "name": "Anschluss an Prüfungskultur", "farbe": "#6b2ca8"}];
+window.ROUTE_APP = "https://ingerfeldundlaube.github.io/KI-Kompetenzen/";
+</script>
+<footer class="seitenfuss">
+  <div class="seitenfuss-leiste">
+    <p class="seitenfuss-zeile">Herausgeber: Sekretariat der Kultusministerkonferenz · Stand: November 2026 · Lizenz: <a href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></p>
+    <nav class="seitenfuss-verweise" aria-label="Rechtliches">
+      <button type="button" aria-expanded="false" aria-controls="fuss-impressum">Impressum</button>
+      <button type="button" aria-expanded="false" aria-controls="fuss-datenschutz">Datenschutz</button>
+      <button type="button" aria-expanded="false" aria-controls="fuss-lizenz">Lizenz</button>
+    </nav>
+  </div>
+  <section class="seitenfuss-text" id="fuss-impressum" aria-label="Impressum" hidden>
+    <button type="button" class="seitenfuss-zu" aria-label="Schließen">×</button>
+    <h2>Impressum</h2>
+    <p><strong>Sekretariat der Kultusministerkonferenz</strong></p>
+    <p><span class="am-stueck">Berlin</span> · <span class="am-stueck">Taubenstraße 10</span> · <span class="am-stueck">10117 Berlin</span> · <span class="am-stueck">Postfach 11 03 42</span> · <span class="am-stueck">10833 Berlin</span> · <span class="am-stueck">Telefon +49 30 25418-499</span></p>
+    <p><span class="am-stueck">Bonn</span> · <span class="am-stueck">Graurheindorfer Straße 157</span> · <span class="am-stueck">53117 Bonn</span> · <span class="am-stueck">Postfach 22 40</span> · <span class="am-stueck">53012 Bonn</span> · <span class="am-stueck">Telefon +49 228 501-0</span></p>
+  </section>
+  <section class="seitenfuss-text" id="fuss-datenschutz" aria-label="Datenschutz" hidden>
+    <button type="button" class="seitenfuss-zu" aria-label="Schließen">×</button>
+    <h2>Datenschutz</h2>
+    <p>Diese Seite erhebt und speichert keine personenbezogenen Daten. Es gibt keine Anmeldung, keine Cookies und keine Analyse- oder Trackingdienste. Schriften und Programmteile werden nicht von fremden Servern geladen.</p>
+    <p>Die Seite wird über GitHub Pages (GitHub Inc., USA) bereitgestellt. Beim Aufruf verarbeitet GitHub technisch notwendige Verbindungsdaten wie Ihre IP-Adresse (<a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener noreferrer">Datenschutzerklärung von GitHub</a>).</p>
+    <p>Wenn Sie Verweise auf andere Angebote öffnen, etwa unter „Weiterführende Links“, gelten dort die Datenschutzhinweise des jeweiligen Anbieters.</p>
+  </section>
+  <section class="seitenfuss-text" id="fuss-lizenz" aria-label="Lizenz und Namensnennung" hidden>
+    <button type="button" class="seitenfuss-zu" aria-label="Schließen">×</button>
+    <h2>Lizenz und Namensnennung</h2>
+    <p>Die Texte dieser Seite stehen unter der Lizenz Creative Commons Namensnennung 4.0 International (CC BY 4.0). Sie dürfen sie teilen und bearbeiten, wenn Sie die Quelle nennen, zum Beispiel:</p>
+    <p class="zitat">Landkarte „Kompetenzen in der digitalen Welt“ zum KMK-Kompetenzrahmen „Bildung in der digitalen Welt“; Aktualisierung im Kontext Künstlicher Intelligenz (2026). Sekretariat der Kultusministerkonferenz, Stand November 2026, CC BY 4.0.</p>
+    <p>Ausgenommen sind Logos, insbesondere das Logo der KMK.</p>
+  </section>
+</footer>
+<script src="seitenfuss.js"></script>
+<script src="route.js"></script>
+</body>
+</html>

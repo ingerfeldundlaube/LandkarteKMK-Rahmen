@@ -13,14 +13,26 @@
 <div class="karte-buehne">
 <div class="karte">
   <svg class="stege" viewBox="0 0 2300 1360" aria-hidden="true">
-    <path d="M760 338H830M1480 338H1550M760 1095H830M1480 1095H1550"/>
-    <path d="M268 548Q222 718 268 890"/>
-    <path d="M2042 548Q2088 718 2042 890"/>
+    <g class="ring">
+      <path d="M760 338H830M1480 338H1550M760 1095H830M1480 1095H1550"/>
+      <path d="M268 548Q222 718 268 890"/>
+      <path d="M2042 548Q2088 718 2042 890"/>
+    </g>
     <path d="M610 548Q745 640 895 662"/>
     <path d="M1700 548Q1565 640 1420 662"/>
     <path d="M600 890Q735 792 895 768"/>
     <path d="M1712 890Q1575 792 1420 768"/>
   </svg>
+  <nav class="routen" aria-label="Routen durch alle Kompetenzbereiche">
+    <p class="routen-kopf"><span class="routen-titel">Route durch alle Bereiche</span>
+      <a class="routen-start" href="route.html" hidden>Route starten<svg class="pfeil" viewBox="0 0 32 32" aria-hidden="true"><path d="M4 16h22M17 7l9 9-9 9" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></p>
+    <div class="routen-knoepfe">
+      <button type="button" data-route="lernende" data-farbe="#0565bd" data-name="Lernende" aria-pressed="false"><img src="bilder/perspektiven/lernende.png" alt="">Lernende</button>
+      <button type="button" data-route="lehrkraefte" data-farbe="#f76e0b" data-name="Lehrkräfte" aria-pressed="false"><img src="bilder/perspektiven/lehrkraefte.png" alt="">Lehrkräfte</button>
+      <button type="button" data-route="schulentwicklung" data-farbe="#c91a29" data-name="Schul- und Unterrichtsentwicklung" aria-pressed="false"><img src="bilder/perspektiven/schulentwicklung.png" alt="">Schulentwicklung</button>
+      <button type="button" data-route="pruefungskultur" data-farbe="#6b2ca8" data-name="Anschluss an Prüfungskultur" aria-pressed="false"><img src="bilder/perspektiven/pruefungskultur.png" alt="">Prüfungskultur</button>
+    </div>
+  </nav>
   <details class="info-menue">
     <summary class="info"><span class="kreis" aria-hidden="true">!</span>Informationen<svg class="pfeil" viewBox="0 0 32 32" aria-hidden="true"><path d="M7 12l9 9 9-9" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></summary>
     <ul class="info-liste">
@@ -124,5 +136,6 @@
   </section>
 </footer>
 <script src="seitenfuss.js"></script>
+<script src="routen.js"></script>
 </body>
 </html>

@@ -1,0 +1,2509 @@
+{
+ "quelle": "KMK-Kompetenzrahmen „Bildung in der digitalen Welt“ – Aktualisierung im Kontext Künstlicher Intelligenz (2026)",
+ "link": "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2026/2026_10_16-KI-Kompetenzrahmen.pdf",
+ "stand": "Oktober 2026",
+ "karten": {
+  "1.1": {
+   "id": "1.1",
+   "titel": "Suchen und Filtern",
+   "reflexionsfrage": "Wie verändern KI-gestützte Suchsysteme unsere Recherchepraxis – und wie befähigen wir Lernende, Suchinteressen zu klären, Suchstrategien bewusst zu wählen und Quellen verlässlich zu prüfen?",
+   "raster": {
+    "lernende": [
+     "erkunden digitale Umgebungen, unterscheiden einfache Suchmöglichkeiten und erkennen erste Unterschiede zwischen klassischen und KI-gestützten Such- und Assistenzsystemen.",
+     "wählen Suchstrategien gezielt aus, führen Suchen zielgerichtet durch.",
+     "reflektieren Suchumgebungen und Quellen kritisch und begründen eigene Quellenentscheidungen."
+    ],
+    "lehrkraefte": [
+     "thematisieren Unterschiede zwischen Suchsystemen und machen die Bedeutung geklärter Suchinteressen sichtbar.",
+     "gestalten Rechercheaufgaben, in denen Suchstrategien und KI-gestützte Suchwege genutzt werden.",
+     "fördern reflektierte Rechercheprozesse, thematisieren auch die begründete Nichtnutzung von KI-Systemen und unterstützen nachvollziehbare Quellen- und Entscheidungsprozesse."
+    ],
+    "schulentwicklung": [
+     "Lehrkräfte werden hinsichtlich Recherchekompetenz im Kontext KI-gestützter Systeme sensibilisiert.",
+     "Schulweite Standards für Recherche, Quellenkritik und KI-gestützte Informationsprozesse werden entwickelt und ihre Wirksamkeit wird überprüft.",
+     "Kriterien für gute Recherche und Quellenarbeit in Absprachen, Curricula und Materialien werden verankert."
+    ],
+    "pruefungskultur": [
+     "Erwartungen an Quellenarbeit und dokumentierte Recherche werden transparent gemacht.",
+     "Prüfungsaufgaben werden so gestaltet, dass Suchstrategien, Quellenvergleiche und Begründungen eingefordert werden.",
+     "Reflektierte Rechercheprozesse, Quellenentscheidungen und verantwortliche Nutzung von KI werden differenziert bewertet."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Welche Suchstrategien beherrschen unsere Schülerinnen und Schüler bereits?",
+     "Wie nutzen sie klassische Suchmaschinen und KI-gestützte Such- und Assistenzsysteme?",
+     "Woran erkennen sie die Qualität und Verlässlichkeit von Quellen?",
+     "Wann verzichten sie bewusst auf KI-Antworten und warum?"
+    ],
+    "lehrkraefte": [
+     "Welche Rechercheaufgaben setzen wir bereits ein?",
+     "Wie unterscheiden sich diese Aufgaben von klassischen Internetrecherchen?",
+     "Wie fördern wir Suchstrategien, Quellenkritik und Suchwegdokumentation systematisch?",
+     "Wie machen wir sichtbar, wann KI-gestützte Recherche hilfreich ist und wo ihre Grenzen liegen?"
+    ],
+    "schulentwicklung": [
+     "Welche gemeinsamen Standards für Recherche und Quellenarbeit bestehen bereits?",
+     "Welche Kompetenzen sollen in welchen Jahrgangsstufen aufgebaut werden?",
+     "Wo braucht es fächerübergreifende oder schulweite Vereinbarungen?",
+     "Wie können Erfahrungen der Lehrkräfte systematisch ausgewertet werden?"
+    ],
+    "pruefungskultur": [
+     "Wie können Suchwege und Quellenentscheidungen dokumentiert werden?",
+     "Welche Aspekte von Recherchekompetenz sollen in Aufgabenformaten berücksichtigt werden?",
+     "Wie lässt sich Eigenleistung bei KI-gestützten Rechercheprozessen nachvollziehbar machen?",
+     "Wie werden reflektierte Rechercheprozesse und Quellenentscheidungen bewertet?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Suchstrategien einführen, üben und reflektieren.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Suchinteressen vor der Recherche explizit klären.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Suchanfragen schrittweise präzisieren lassen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Recherchekompetenz in einem geeigneten Aufgabenformat sichtbar machen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Suchwege und Quellenentscheidungen dokumentieren lassen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Schulweite Absprachen zur Quellenarbeit treffen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Rechercheaufgaben mit Reflexionsanteilen entwickeln.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Eine gemeinsame Kriterienliste für Quellenbewertung entwickeln.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Aufgaben entwickeln, die einen Vergleich zwischen klassischen Suchmaschinen und KI-Assistenzsystemen ermöglichen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Dokumentation von Suchwegen verbindlich einführen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    }
+   ]
+  },
+  "1.2": {
+   "id": "1.2",
+   "titel": "Auswerten und Bewerten",
+   "reflexionsfrage": "Wie stärken wir die Fähigkeit von Schülerinnen und Schülern, KI-generierte Informationen sowie andere digitale Quellen kritisch zu prüfen, mit verlässlichen Quellen abzugleichen und fundiert zu bewerten?",
+   "raster": {
+    "lernende": [
+     "erkennen, dass KI-Antworten fehlerhaft oder unvollständig sein können und überprüfen die von KI-Anwendungen angegebenen Quellen.",
+     "prüfen Aussagen mit mindestens einer verlässlichen Quelle; nutzen fachliche Kriterien, um KI-Antworten zu bewerten und zu überarbeiten.",
+     "analysieren Bias, Perspektiven, Quellenlage und Unsicherheiten systematisch und entscheiden, wann Ergebnisse übernommen, angepasst oder nicht verwendet werden sollten."
+    ],
+    "lehrkraefte": [
+     "weisen auf Halluzinationen und fehlende Quellenprüfung hin, geben Hinweise zur einfachen Quellenprüfung.",
+     "geben Prüffragen und einfache Kriterienraster vor; integrieren Quellenkritik, Faktencheck und fachliche Begründung in Aufgaben.",
+     "lassen Qualitätsurteile transparent begründen und mit Fachstandards verbinden."
+    ],
+    "schulentwicklung": [
+     "Basishinweise zur kritischen KI-Nutzung werden bereitgestellt.",
+     "Gemeinsame Kriterien für Quellenprüfung und Plausibilitätscheck werden entwickelt; die KI-bezogene Informationsbewertung wird in Medienkonzept und Fachcurricula verankert.",
+     "Schulweite Routinen für Faktencheck, Bias-Reflexion und Quellenarbeit werden etabliert."
+    ],
+    "pruefungskultur": [
+     "Aufgaben, die eine reine Reproduktion ungeprüfter KI-Antworten nahelegen, werden vermieden.",
+     "Quellenangaben und Reflexion zur KI-Nutzung werden eingefordert; kritische Prüfung, Auswahl und Überarbeitung von KI-Ergebnissen werden bewertet.",
+     "Prüfungen werden so gestaltet, dass Urteilskraft und Begründungsfähigkeit sichtbar werden."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Woran erkennen unsere Schülerinnen und Schüler, ob KI-Antworten verlässlich sind?",
+     "Wie prüfen sie Aussagen mit verlässlichen Quellen oder Primärquellen?",
+     "Welche Kriterien nutzen sie, um Qualität, Plausibilität und Perspektivität zu beurteilen?",
+     "Wie begründen sie ihre Bewertungen und Überarbeitungen?"
+    ],
+    "lehrkraefte": [
+     "Welche Aufgabenformate fördern Quellenkritik und Faktenprüfung bereits?",
+     "Mit welchen Prüffragen oder Kriterienrastern arbeiten wir?",
+     "Wie machen wir die Bewertung von KI-Antworten und Quellen transparent?",
+     "Wie verbinden wir Faktencheck, fachliche Kriterien und Begründung systematisch?"
+    ],
+    "schulentwicklung": [
+     "Welche gemeinsamen Kriterien für Quellenprüfung und Plausibilitätscheck bestehen bereits?",
+     "Wo sind Faktencheck, Quellenarbeit und Bias-Reflexion im Curriculum verankert?",
+     "Welche Materialien oder Routinen unterstützen eine kritische KI-Nutzung?",
+     "Wie werden Erfahrungen der Lehrkräfte systematisch ausgewertet?"
+    ],
+    "pruefungskultur": [
+     "In welchen Aufgabenformaten wird kritische Prüfung statt bloßer Reproduktion sichtbar?",
+     "Wie wird die Dokumentation der Quellenangaben und der Reflexion zur KI-Nutzung bewertet?",
+     "Welche Kriterien zur Bewertung von Auswahl, Überarbeitung und Begründung sind vereinbart?",
+     "Wie lässt sich Urteilskraft im Umgang mit KI-Informationen in Prüfungen sichtbar machen?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Bias, Perspektivität und Unsicherheiten an Beispielen thematisieren.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Faktencheck mit Primärquellen und verlässlichen Referenzquellen einüben.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Überarbeitete KI-Antworten mit Begründung dokumentieren lassen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Schulweite Absprachen zur Quellenkritik treffen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Reflexionsanteile zur KI-Nutzung in Aufgabenformaten verankern.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Schulweite Regelungen zur Bewertung des Umgangs mit KI-Antworten festlegen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Prüfverfahren für KI-Antworten mit Kriterienraster für Plausibilitäts- und Qualitätsprüfung schulweit entwickeln.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    }
+   ]
+  },
+  "1.3": {
+   "id": "1.3",
+   "titel": "Speichern und Abrufen",
+   "reflexionsfrage": "Wie organisieren Lernende KI-gestützte Arbeitsprozesse, Quellen, Prompts und Ergebnisse nachvollziehbar?",
+   "raster": {
+    "lernende": [
+     "speichern Ergebnisse und genutzte Materialien geordnet ab.",
+     "halten verwendete Prompts, Quellen und KI-Hilfen fest und strukturieren Arbeitsstände mithilfe von Versionen, Notizen und Begründungen.",
+     "führen ein nachvollziehbares Lern- oder Prozessportfolio zur KI-Nutzung."
+    ],
+    "lehrkraefte": [
+     "geben einfache Ablage- und Dokumentationsformen vor und nutzen datenschutzkonforme Dateiablagen.",
+     "nutzen Vorlagen für Prompt-, Quellen- und Prozessnotizen; lassen Arbeitsprozesse regelmäßig sichern und reflektieren.",
+     "etablieren Portfolioarbeit zur Verbindung von Produkt, Prozess und Reflexion."
+    ],
+    "schulentwicklung": [
+     "Grundsätze zu Dateiablage, Datenschutz und Dokumentation werden geklärt.",
+     "Vorlagen für KI-Nutzungsnachweise werden bereitgestellt; Prozessdokumentation in Unterrichtsvorhaben und Lernplattformen wird verankert.",
+     "Schulweite Standards für transparente digitale Arbeitsprozesse werden entwickelt."
+    ],
+    "pruefungskultur": [
+     "Bei KI-Nutzung wird eine einfache Dokumentation als Nutzungsnachweis eingefordert und bei der Bewertung berücksichtigt.",
+     "Arbeitsstände und Quellenübersicht werden bei der Bewertung berücksichtigt; Prozessqualität, Überarbeitung und Nachvollziehbarkeit werden bewertet.",
+     "Geeignete, umfassende Methoden zur Dokumentation des Arbeitsprozesses werden bei der Bewertung berücksichtigt."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Wie sichern unsere Schülerinnen und Schüler Quellen, Prompts und Arbeitsstände?",
+     "Wie dokumentieren sie KI-Hilfen und Überarbeitungen?",
+     "Wie finden sie Materialien verlässlich wieder und nutzen Versionen?",
+     "Wie reflektieren sie ihre Prozessdokumentation?"
+    ],
+    "lehrkraefte": [
+     "Welche Ablage- und Dokumentationsformen nutzen wir bereits?",
+     "Werden ausschließlich datenschutzkonforme Ablageformate für personenbezogene Daten verwendet?",
+     "Mit welchen Vorlagen unterstützen wir Prompt-, Quellen- und Prozessnotizen?",
+     "Wie verbinden wir Produkt, Prozess und Reflexion?"
+    ],
+    "schulentwicklung": [
+     "Welche Grundsätze zu Dateiablage, Datenschutz und Dokumentation gelten?",
+     "Sind datenschutzkonforme Ablagesysteme für Lehrkräfte zu jeder Zeit und an jedem Ort bereitgestellt?",
+     "Wo sind KI-Nutzungsnachweise und Prozessdokumentation verankert?",
+     "Welche Plattformen und Routinen unterstützen transparente Arbeitsprozesse?"
+    ],
+    "pruefungskultur": [
+     "Welche Formen des Nutzungsnachweises werden bereits eingefordert?",
+     "Wie werden Arbeitsstände, Quellenübersicht und Überarbeitung berücksichtigt?",
+     "In welchen Formaten können Portfolios oder Kolloquien sinnvoll sein?",
+     "Wie wird eigenständige Leistung trotz KI-Unterstützung abgesichert?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Geeignete, sichere und datenschutzkonforme Dateiablagen für Lernende und Lehrkräfte bereitstellen und verbindlich machen.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Vorlagen für KI-Nutzungsnachweise, Prompt-, Quellen- und Prozessnotizen erarbeiten und etablieren.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Portfolioarbeit zur Verbindung von Produkt, Prozess und Reflexion einsetzen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Dokumentierte Arbeitsstände und Überarbeitungen in einem Bewertungsformat berücksichtigen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Schulweite Standards für transparente digitale Arbeitsprozesse entwickeln.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Prozessdokumentation in Unterrichtsvorhaben und Lernplattformen verankern.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    }
+   ]
+  },
+  "2.1": {
+   "id": "2.1",
+   "titel": "Interagieren",
+   "reflexionsfrage": "Wie kommunizieren Lernende mit Menschen und KI-Systemen adressatengerecht, respektvoll und zielorientiert?",
+   "raster": {
+    "lernende": [
+     "nutzen KI für einfache Formulierungshilfen und erkennen den Unterschied zwischen menschlicher und KI-gestützter Kommunikation.",
+     "passen Anrede, Ton und Inhalt mithilfe dialogorientierter KI-Systeme adressatengerecht an und nutzen Rückfragen, Präzisierungen und Rollenklärung gezielt.",
+     "reflektieren Wirkung, Verantwortung und Grenzen KI-gestützter Kommunikation sowie ihre Auswirkungen auf zwischenmenschliche Kommunikation."
+    ],
+    "lehrkraefte": [
+     "vermitteln einfache Regeln für klare, adressatenbezogene und verantwortungsvolle Prompts.",
+     "lassen adressatengerechte Kommunikationsvarianten vergleichen und nutzen KI-Dialoge zur Vorbereitung von Gesprächen, Erklärungen und Feedback.",
+     "fördern Metakommunikation über Sprache, Wirkung, Verantwortung und Authentizität KI-gestützter Kommunikation."
+    ],
+    "schulentwicklung": [
+     "Basishinweise für respektvolle, klare und verantwortungsvolle digitale Kommunikation werden vereinbart.",
+     "Beispiele für KI-gestützte Kommunikationssituationen im Unterricht werden gesammelt und Leitlinien für den Einsatz von KI in schulischer Kommunikation entwickelt.",
+     "KI-gestützte Kommunikation wird im Zusammenhang von Kommunikationskultur, Demokratiebildung und einem reflektierten Umgang mit KI verankert."
+    ],
+    "pruefungskultur": [
+     "Der Einsatz von KI zur Unterstützung von Formulierungen wird kenntlich gemacht.",
+     "Die adressatengerechte Auswahl und Überarbeitung von Formulierungen wird einbezogen; mündlich oder schriftlich wird geprüft, ob Inhalte verstanden und verantwortet werden.",
+     "Prüfungsformate ermöglichen die Reflexion kommunikativer Entscheidungen und KI-gestützter Unterstützung."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Wie unterscheiden unsere Schülerinnen und Schüler zwischen Kommunikation mit Menschen und mit KI-Systemen?",
+     "Wie passen sie Sprache, Ton und Anrede an verschiedene Adressatinnen und Adressaten an?",
+     "Wie nutzen sie Rückfragen, Präzisierungen und Rollenklärung in KI-Dialogen?",
+     "Wie reflektieren sie Wirkung, Verantwortung und Grenzen KI-gestützter Kommunikation?"
+    ],
+    "lehrkraefte": [
+     "Welche Regeln für klare, zielgerichtete und adressatenbezogene Prompts nutzen wir bereits?",
+     "Wie lassen wir adressatengerechte Kommunikationsvarianten vergleichen?",
+     "Wie setzen wir KI-Dialoge zur Vorbereitung von Gesprächen, Erklärungen oder Feedback ein?",
+     "Wie thematisieren wir Sprache, Wirkung, Verantwortung und Authentizität in KI-gestützter Kommunikation?"
+    ],
+    "schulentwicklung": [
+     "Welche Basishinweise zu respektvoller, klarer und verantwortungsvoller digitaler Kommunikation liegen bereits vor?",
+     "Wo werden KI-gestützte Kommunikationssituationen im Unterricht aufgegriffen?",
+     "Welche Leitlinien braucht der Einsatz von KI in schulischer Kommunikation?",
+     "Wie verknüpfen wir Kommunikationskultur, Demokratiebildung und einen reflektierten Umgang mit KI?"
+    ],
+    "pruefungskultur": [
+     "Wann und wie wird KI-unterstützte Formulierung transparent gemacht?",
+     "Wie werden adressatengerechte Auswahl und Überarbeitung von Formulierungen einbezogen?",
+     "Welche Prüfungsformate machen kommunikative Entscheidungen sichtbar?",
+     "Wie kann überprüft werden, dass Inhalte verstanden und verantwortet werden?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Ein Beispiel für einen KI-Dialog zur Vorbereitung von Gesprächen, Erklärungen oder Feedback erproben und auswerten.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Regeln für zielgerichtete, adressatenbezogene und verantwortungsvolle Prompts vereinbaren.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Prompt-Regeln in einer Lerngruppe einführen und nach einer Erprobungsphase gemeinsam auswerten.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Absprachen zur Kennzeichnung von KI-gestützten Formulierungshilfen treffen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Reflexionsfragen zu Authentizität, Wirkung und Verantwortung in Aufgabenstellungen oder Rückmeldeformate integrieren.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Eine Unterrichtssequenz entwickeln, in der Lernende KI-gestützte Kommunikationsvarianten vergleichen, überarbeiten und ihre Auswahl begründen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Ein Kriterienraster für transparente KI-gestützte Kommunikation entwickeln.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Leitlinien für den Einsatz von KI-Systemen in schulischer Kommunikation entwickeln.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Ein Prüfungsformat mit Reflexion kommunikativer Entscheidungen und KI-gestützter Unterstützung testen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Einen Baustein zu KI-gestützter Kommunikation in bestehende Vereinbarungen zur Kommunikationskultur aufnehmen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    }
+   ]
+  },
+  "2.2": {
+   "id": "2.2",
+   "titel": "Teilen",
+   "reflexionsfrage": "Wie teilen Lernende KI-gestützt erstellte Inhalte verantwortungsvoll, rechtssicher und nachvollziehbar?",
+   "raster": {
+    "lernende": [
+     "unterscheiden eigene Beiträge von KI-unterstützten Anteilen.",
+     "kennzeichnen KI-Hilfen bei Texten, Bildern oder Ideen und prüfen vor dem Teilen personenbezogene Daten, Rechte und Kontext.",
+     "entscheiden begründet, welche KI-unterstützten Inhalte in welchem Kontext geteilt, angepasst oder nicht veröffentlicht werden sollten."
+    ],
+    "lehrkraefte": [
+     "führen einfache Regeln zur Kennzeichnung von Quellen und KI-Unterstützung ein.",
+     "üben das Teilen mit klaren Angaben zu Quellen und KI-Nutzung und thematisieren Datenschutz, Rechte und Wirkung veröffentlichter Inhalte.",
+     "entwickeln Aufgaben, in denen Veröffentlichung, Rechteklärung und Adressatenbezug verantwortungsvoll geplant werden."
+    ],
+    "schulentwicklung": [
+     "Grundregeln zur Veröffentlichung und Kennzeichnung von KI-Unterstützung werden bereitgestellt.",
+     "Schulische Abläufe für Lernprodukte, Plattformen und Einwilligungen werden geklärt; Transparenzregeln werden im Medienkonzept und in Aufgabenformaten verankert.",
+     "Eine gemeinsame Kultur verantwortlicher Veröffentlichung und nachvollziehbarer KI-Nutzung wird entwickelt."
+    ],
+    "pruefungskultur": [
+     "Transparente Angaben zu KI-Anteilen und genutzten Hilfsmitteln werden eingefordert.",
+     "Eigenleistung, Hilfsmittel und Veröffentlichungskontext werden unterschieden; Auswahl, Begründung und verantwortliche Weitergabe von Ergebnissen werden berücksichtigt.",
+     "Prüfungsprodukte mit Offenlegung, Rechteklärung und Reflexion werden genutzt."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Wie unterscheiden unsere Schülerinnen und Schüler eigene Beiträge von KI-unterstützten Anteilen?",
+     "Wie kennzeichnen sie KI-Hilfen bei Texten, Bildern oder Ideen?",
+     "Wie prüfen sie vor dem Teilen personenbezogene Daten, Rechte und Kontext?",
+     "Wie entscheiden sie begründet, was in welchem Kontext geteilt oder nicht veröffentlicht werden sollte?"
+    ],
+    "lehrkraefte": [
+     "Welche Kennzeichnungsregeln für Quellen und KI-Unterstützung sind bereits eingeführt?",
+     "Wie üben wir das Teilen mit klaren Angaben zu Quellen und KI-Nutzung?",
+     "Wie thematisieren wir Datenschutz, Rechte und Wirkung veröffentlichter Inhalte?",
+     "Wie planen wir Aufgaben, in denen Veröffentlichung verantwortungsvoll gestaltet wird?"
+    ],
+    "schulentwicklung": [
+     "Welche Grundregeln zur Veröffentlichung und Kennzeichnung von KI-Unterstützung gelten bereits?",
+     "Wie sind schulische Abläufe für Lernprodukte, Plattformen und Einwilligungen geregelt?",
+     "Wo sind Transparenzregeln in Medienkonzept und Aufgabenformaten verankert?",
+     "Wie kann eine gemeinsame Kultur verantwortlicher Veröffentlichung gestärkt werden?"
+    ],
+    "pruefungskultur": [
+     "Wie werden KI-Anteile und Hilfsmittel transparent offengelegt?",
+     "Wie unterscheiden wir Eigenleistung, Hilfsmittel und Veröffentlichungskontext?",
+     "Welche Aufgaben machen verantwortliche Weitergabe und Rechteklärung sichtbar?",
+     "Wie kann Reflexion über Veröffentlichung Teil von Leistungsformaten werden?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Eine Checkliste zu Datenschutz, Rechten, Kontext und Adressatenbezug vor dem Teilen erproben.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Eine Vorlage zur Kennzeichnung KI-unterstützter Produkte bereitstellen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Ein einfaches Kennzeichnungsschema für Quellen und KI-Unterstützung vereinbaren.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Eine kurze Rückmelderoutine zur Frage einführen: Was wurde geteilt, warum und mit welcher KI-Unterstützung?",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Schulische Abläufe für Lernprodukte, Plattformen und Einwilligungen prüfen und dokumentieren.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Im Kollegium Kriterien zur verantwortlichen Veröffentlichung abstimmen.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Beispiele für verantwortliche und problematische Veröffentlichung im Kollegium oder in Fachschaften auswerten.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Eine Unterrichtsaufgabe entwickeln, in der Lernende Quellen, KI-Anteile und eigene Beiträge transparent ausweisen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Ein Bewertungsformat mit Offenlegung, Rechteklärung und Reflexion entwickeln.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Transparenzregeln im Medienkonzept und in ausgewählten Aufgabenformaten verankern.",
+     "perspektiven": [
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    }
+   ]
+  },
+  "2.3": {
+   "id": "2.3",
+   "titel": "Zusammenarbeiten",
+   "reflexionsfrage": "Wie unterstützt KI kollaboratives Lernen, ohne Eigenleistung, Rollen und Verantwortung zu verdecken?",
+   "raster": {
+    "lernende": [
+     "nutzen KI-Anwendungen zur Ideensammlung und Strukturierung in Gruppen.",
+     "klären, welche Vorschläge von KI-Anwendungen und welche aus der Gruppe stammen, und verwenden KI-Anwendungen für Struktur, Feedback und Überarbeitung gemeinsamer Produkte.",
+     "reflektieren Gruppenprozesse, Verantwortung und Beitragstransparenz bei KI-Nutzung."
+    ],
+    "lehrkraefte": [
+     "geben einfache Gruppenrollen und Regeln zur KI-Nutzung vor.",
+     "lassen KI-Vorschläge gemeinsam prüfen, auswählen und dokumentieren; sie fördern Kollaboration mit nachvollziehbaren individuellen Beiträgen.",
+     "gestalten kooperative Aufgaben, in denen KI als Werkzeug, nicht als Ersatz für Zusammenarbeit genutzt wird."
+    ],
+    "schulentwicklung": [
+     "KI-gestützte Gruppenarbeitsformate werden erprobt.",
+     "Beispiele für Rollenkarten, Protokolle und Reflexionsbögen werden gesammelt; kollaborative KI-Nutzung wird in Unterrichtsentwicklung verankert.",
+     "Standards für faire Beteiligung, Beitragstransparenz und Feedbackkultur werden entwickelt."
+    ],
+    "pruefungskultur": [
+     "Gruppenanteile und KI-Anteile werden unterscheidbar gemacht.",
+     "Individuelle Reflexion wird neben dem Gruppenprodukt berücksichtigt; Prozessdokumentation, Peer-Feedback und kurze Kolloquien werden genutzt.",
+     "Prüfungsformate verbinden Kooperation, transparente KI-Nutzung und individuelle Verantwortung."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Wie nutzen unsere Schülerinnen und Schüler KI zur Ideensammlung und Strukturierung in Gruppen?",
+     "Wie klären sie, welche Vorschläge von KI und welche aus der Gruppe stammen?",
+     "Wie verteilen sie Rollen, Aufgaben und Verantwortung fair?",
+     "Wie machen sie Beiträge, Entscheidungen und Überarbeitungen nachvollziehbar?"
+    ],
+    "lehrkraefte": [
+     "Welche Gruppenrollen und Regeln zur KI-Nutzung sind bereits geklärt?",
+     "Wie prüfen und begründen Lernende gemeinsam KI-Vorschläge?",
+     "Wie unterstützen wir dokumentierte Kollaboration mit klaren Beiträgen?",
+     "Wie gestalten wir Aufgaben, in denen KI kooperatives Arbeiten unterstützt, aber nicht ersetzt?"
+    ],
+    "schulentwicklung": [
+     "Welche Gruppenarbeitsformate mit KI werden bereits erprobt?",
+     "Welche Rollenkarten, Protokolle oder Reflexionsbögen nutzen wir?",
+     "Wie verankern wir kollaborative KI-Nutzung in der Unterrichtsentwicklung?",
+     "Wie sichern wir faire Beteiligung, Transparenz und Feedbackkultur?"
+    ],
+    "pruefungskultur": [
+     "Wie machen wir Gruppen- und KI-Anteile in Leistungen sichtbar?",
+     "Wie berücksichtigen wir individuelle Reflexion neben dem Gruppenprodukt?",
+     "Welche Rolle spielen Prozessdokumentation, Peer-Feedback und kurze Kolloquien?",
+     "Wie können Prüfungsformate Kooperation und individuelle Verantwortung verbinden?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Ein Protokoll für Beiträge, Entscheidungen, Überarbeitungen und KI-Nutzung erproben.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "KI-Vorschläge in einer Gruppenphase gemeinsam prüfen, auswählen und begründen lassen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Eine Gruppenaufgabe mit klaren Rollen und Regeln zur KI-Nutzung planen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Rollenkarten, Protokolle oder Reflexionsbögen für KI-gestützte Zusammenarbeit bereitstellen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Eine Feedbackroutine zur Frage einführen: Welche Rolle hatte KI, welche Rolle hatte die Gruppe?",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Kriterien für faire Beteiligung und Beitragstransparenz in Fachschaften abstimmen.",
+     "perspektiven": [
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Eine kurze Kolloquiumsphase zur individuellen Verantwortung im Gruppenprodukt testen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Beispiele gelungener kollaborativer KI-Nutzung sammeln und für Unterrichtsentwicklung nutzbar machen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Peer-Feedback für gemeinsame Produkte verbindlich einführen und auswerten.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Ein Aufgabenformat entwickeln, das Gruppenprodukt und individuelle Reflexion verbindet.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    }
+   ]
+  },
+  "2.4": {
+   "id": "2.4",
+   "titel": "Umgangsregeln kennen und einhalten",
+   "reflexionsfrage": "Wie entwickeln Lernende Regeln für einen fairen, sicheren und respektvollen Umgang mit KI?",
+   "raster": {
+    "lernende": [
+     "kennen einfache Regeln für respektvolle digitale und KI-gestützte Kommunikation.",
+     "erkennen unangemessene, verletzende oder manipulative KI-Ausgaben und formulieren Prompts und Beiträge fair, inklusiv und verantwortungsvoll.",
+     "reflektieren Normen, Machtverhältnisse und gesellschaftliche Folgen automatisierter Kommunikation."
+    ],
+    "lehrkraefte": [
+     "vereinbaren Regeln zur KI-Nutzung und zu respektvoller digitaler Kommunikation.",
+     "besprechen problematische Beispiele KI-gestützter Kommunikation und lassen Regeln anwenden, begründen und weiterentwickeln.",
+     "führen ethische Fallanalysen zu KI-gestützter Kommunikation durch."
+    ],
+    "schulentwicklung": [
+     "Medienregeln werden um KI-bezogene Aspekte ergänzt.",
+     "Orientierung zu respektvoller und sicherer KI-Nutzung wird bereitgestellt; Prävention, Wertebildung und digitale Kompetenzen werden verbunden.",
+     "Ein schulweites Verständnis verantwortungsvoller KI-Kommunikation wird entwickelt."
+    ],
+    "pruefungskultur": [
+     "Zulässige und unzulässige Formen KI-gestützter Kommunikation werden geklärt.",
+     "Regelkenntnis und verantwortliche Anwendung vereinbarter Regeln werden in Prozessreflexionen berücksichtigt.",
+     "Dilemma- und Fallaufgaben werden genutzt, um ethische Urteilskraft sichtbar zu machen."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Welche Regeln für respektvolle digitale und KI-gestützte Kommunikation kennen unsere Schülerinnen und Schüler bereits?",
+     "Woran erkennen sie unangemessene, verletzende oder manipulative KI-Ausgaben?",
+     "Wie formulieren sie faire, inklusive und verantwortungsvolle Prompts und Beiträge?",
+     "Wie reflektieren sie Normen, Machtverhältnisse und Folgen automatisierter Kommunikation?"
+    ],
+    "lehrkraefte": [
+     "Welche Regeln zur KI-Nutzung und zu respektvoller digitaler Kommunikation sind bereits vereinbart?",
+     "Wie besprechen wir problematische Beispiele KI-gestützter Kommunikation?",
+     "Wie lassen wir Regeln anwenden, begründen und weiterentwickeln?",
+     "Wie können ethische Fallanalysen zur KI-Kommunikation eingesetzt werden?"
+    ],
+    "schulentwicklung": [
+     "Welche Medienregeln wurden bereits um KI-bezogene Aspekte ergänzt?",
+     "Welche Orientierung zur respektvollen und sicheren KI-Nutzung gibt es?",
+     "Wie verbinden wir Prävention, Wertebildung und digitale Kompetenzen?",
+     "Wie entwickeln wir ein schulweites Verständnis verantwortungsvoller KI-Kommunikation?"
+    ],
+    "pruefungskultur": [
+     "Welche Formen KI-gestützter Kommunikation sind zulässig oder unzulässig?",
+     "Wie berücksichtigen wir Regelkenntnis in Prozessreflexionen?",
+     "Wie bewerten wir die verantwortliche Anwendung vereinbarter Regeln?",
+     "Wie können Dilemma- und Fallaufgaben ethische Urteilskraft sichtbar machen?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Zulässige und unzulässige KI-Unterstützung für ausgewählte Aufgabenformate klären.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Eine Übungssequenz zu fairen, inklusiven und verantwortungsvollen Prompts erproben.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Beispielfälle zu manipulativer, verletzender oder ausschließender KI-Kommunikation besprechen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Beispiele für kulturell sensible und inklusive Kommunikation mit KI sammeln.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Ein einfaches Regelset für respektvolle und verantwortungsvolle KI-Kommunikation einführen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Schulische Medienregeln um KI-bezogene Aspekte ergänzen.",
+     "perspektiven": [
+      "lernende"
+     ]
+    },
+    {
+     "text": "Orientierung zu sicherer und respektvoller KI-Nutzung im Kollegium abstimmen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Einen Reflexionsbogen zu Fairness, Transparenz und Verantwortung bei KI-Kommunikation einsetzen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Eine Dilemmaaufgabe zur ethischen Urteilskraft entwickeln und testen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Regelanwendung in einer Aufgabe begründen und nach der Erprobung weiterentwickeln lassen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    }
+   ]
+  },
+  "2.5": {
+   "id": "2.5",
+   "titel": "An der Gesellschaft aktiv teilhaben",
+   "reflexionsfrage": "Wie nutzen Lernende KI, um sich informiert, reflektiert und demokratisch an digitalen Öffentlichkeiten zu beteiligen?",
+   "raster": {
+    "lernende": [
+     "nutzen KI, um Informationen oder Argumente für gesellschaftliche Fragen verständlicher zu machen.",
+     "vergleichen KI-generierte Positionen mit eigenen Einschätzungen und Quellen und entwickeln begründete Beiträge mit transparenter KI-Nutzung.",
+     "analysieren den Einfluss von KI auf Öffentlichkeit, Meinungsbildung und Teilhabe."
+    ],
+    "lehrkraefte": [
+     "nutzen KI als Einstieg in Argumentations- und Beteiligungsaufgaben.",
+     "lassen Positionen prüfen, ergänzen und adressatengerecht formulieren; sie gestalten Projekte zu demokratischer Teilhabe und digitaler Öffentlichkeit.",
+     "fördern kritische Reflexion über Plattformlogiken, KI und gesellschaftliche Verantwortung."
+    ],
+    "schulentwicklung": [
+     "KI wird als Thema demokratischer Bildung sichtbar gemacht.",
+     "Partizipationsformate werden mit Medienbildung verbunden; schulische Beteiligungsprojekte mit reflektierter KI-Nutzung werden entwickelt.",
+     "KI, Demokratiebildung und Teilhabe werden in Schulprogrammarbeit und Unterrichtsentwicklung verankert."
+    ],
+    "pruefungskultur": [
+     "Neben Positionen werden Begründung und Quellenprüfung berücksichtigt.",
+     "Transparenz über KI-gestützte Argumentationshilfen wird eingefordert; Debatten, Stellungnahmen und Reflexionen werden als Leistungsformate genutzt.",
+     "Demokratische Urteilskraft wird in offenen, transferorientierten Aufgaben sichtbar gemacht."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Wie nutzen unsere Schülerinnen und Schüler KI, um Informationen oder Argumente verständlicher zu machen?",
+     "Wie vergleichen sie KI-generierte Positionen mit eigenen Einschätzungen und Quellen?",
+     "Wie entwickeln sie begründete Beiträge zu gesellschaftlichen Fragen mit transparenter KI-Nutzung?",
+     "Wie reflektieren sie den Einfluss von KI auf Öffentlichkeit, Meinungsbildung und Teilhabe?"
+    ],
+    "lehrkraefte": [
+     "Wie nutzen wir KI als Einstieg in Argumentations- und Beteiligungsaufgaben?",
+     "Wie lassen wir Positionen prüfen, ergänzen und adressatengerecht formulieren?",
+     "Wie gestalten wir Projekte zu demokratischer Teilhabe und digitaler Öffentlichkeit?",
+     "Wie fördern wir kritische Reflexion über Plattformlogiken, KI und gesellschaftliche Verantwortung?"
+    ],
+    "schulentwicklung": [
+     "Wie machen wir KI als Thema demokratischer Bildung sichtbar?",
+     "Wie verbinden wir Partizipationsformate mit Medienbildung?",
+     "Wie entwickeln wir schulische Beteiligungsprojekte mit reflektierter KI-Nutzung?",
+     "Wie verankern wir KI, Demokratiebildung und Teilhabe in Schulprogrammarbeit und Unterrichtsentwicklung?"
+    ],
+    "pruefungskultur": [
+     "Wie berücksichtigen wir nicht nur Positionen, sondern auch Begründung und Quellenprüfung?",
+     "Wie machen wir KI-gestützte Argumentationshilfen transparent?",
+     "Welche Rolle spielen Debatten, Stellungnahmen und Reflexionen als Leistungsformate?",
+     "Wie werden demokratische Urteilskraft und Transfer sichtbar?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Beispiele für demokratische Beteiligung mit und ohne KI vergleichen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "KI-generierte Positionen mit Quellen und eigenen Einschätzungen vergleichen lassen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Leitfragen zu Plattformlogiken, KI und gesellschaftlicher Verantwortung sammeln.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Eine Reflexionsphase zu Sichtbarkeit, Meinungsbildung und Teilhabe in digitalen Öffentlichkeiten einbauen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Ein Kriterienraster für Quellenprüfung, Begründung und Adressatenbezug erproben.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Partizipationsformate mit Medienbildung in einem Unterrichts- oder Projektrahmen verbinden.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Eine Unterrichtsaufgabe zu gesellschaftlicher Teilhabe mit transparenter KI-Unterstützung planen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Ein Debatten- oder Stellungnahmeformat mit transparenter KI-Nutzung entwickeln.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Ein schulisches Beteiligungsprojekt mit reflektierter KI-Nutzung vorbereiten.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Offene Aufgabenformate entwickeln, die demokratische Urteilskraft und Transfer sichtbar machen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    }
+   ]
+  },
+  "3.1": {
+   "id": "3.1",
+   "titel": "Entwickeln und Produzieren",
+   "reflexionsfrage": "Wie entwickeln Lernende mit KI eigene Produkte, ohne Kreativität, Fachlichkeit und Verantwortung aus der Hand zu geben?",
+   "raster": {
+    "lernende": [
+     "nutzen KI für erste Ideen oder Entwürfe.",
+     "überarbeiten KI-Vorschläge anhand eigener fachlicher Entscheidungen und gestalten Produkte ziel-, adressaten- und kriterienorientiert mit KI-Unterstützung.",
+     "entwickeln eigenständige Produkte und reflektieren kreative, fachliche und ethische Entscheidungen."
+    ],
+    "lehrkraefte": [
+     "geben klare Produktziele und einfache KI-Hilfen vor.",
+     "modellieren Überarbeitung statt bloßer Übernahme und arbeiten mit Kriterienrastern für Qualität, Originalität und Fachlichkeit.",
+     "entwickeln komplexe Gestaltungsaufgaben mit Prozessreflexion und Variantenvergleich."
+    ],
+    "schulentwicklung": [
+     "Beispiele für KI-gestützte Lernprodukte werden gesammelt.",
+     "Rechtliche, technische und pädagogische Rahmenbedingungen werden geklärt und produktives Arbeiten mit KI wird in Fachcurricula verankert.",
+     "Eine schulweite Kultur kreativer und verantwortlicher KI-Produktion wird entwickelt."
+    ],
+    "pruefungskultur": [
+     "Produkt, Prozess und Eigenanteil werden unterschieden.",
+     "Wichtige Entscheidungen und KI-Hilfen werden dokumentiert sowie Qualität, Überarbeitung, Begründung und Reflexion berücksichtigt.",
+     "Präsentation, Portfolio und Kolloquium werden zur Absicherung eigenständiger Leistung genutzt."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Wie nutzen unsere Schülerinnen und Schüler KI für erste Ideen oder Entwürfe?",
+     "Wie überarbeiten sie KI-Vorschläge mit eigenen fachlichen Entscheidungen?",
+     "Wie gestalten sie Produkte ziel-, adressaten- und kriterienorientiert mit KI-Unterstützung?",
+     "Wie reflektieren sie kreative, fachliche und ethische Entscheidungen - und wo entwickeln sie eigene Assistenzroutinen weiter?"
+    ],
+    "lehrkraefte": [
+     "Welche klaren Produktziele und einfachen KI-Hilfen geben wir vor?",
+     "Wie modellieren wir Überarbeitung statt bloßer Übernahme?",
+     "Mit welchen Kriterienrastern arbeiten wir für Qualität, Originalität und Fachlichkeit?",
+     "Wie gestalten wir komplexe Gestaltungsaufgaben mit Prozessreflexion und Variantenvergleich?"
+    ],
+    "schulentwicklung": [
+     "Welche Beispiele für KI-gestützte Lernprodukte sammeln wir bereits?",
+     "Wie klären wir rechtliche, technische und pädagogische Rahmenbedingungen?",
+     "Wie verankern wir produktives Arbeiten mit KI in Fachcurricula?",
+     "Wie entwickeln wir eine schulweite Kultur kreativer und verantwortlicher KI-Produktion?"
+    ],
+    "pruefungskultur": [
+     "Wie unterscheiden wir Produkt, Prozess und Eigenanteil?",
+     "Wie werden wichtige Entscheidungen und KI-Hilfen dokumentiert?",
+     "Wie berücksichtigen wir Qualität, Überarbeitung, Begründung und Reflexion?",
+     "Welche Rolle spielen Präsentation, Portfolio und Verteidigung?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Beispiele für kreative und verantwortliche KI-Produktion sammeln und auswerten.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Eine Produktionsaufgabe mit klaren Produktzielen, Kriterien und KI-Unterstützung planen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Absprachen zur Sichtbarmachung von Eigenanteil, Produkt und Prozess treffen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Einen Dokumentationsbogen für Entscheidungen, Überarbeitungen und KI-Hilfen erproben.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Rechtliche, technische und pädagogische Rahmenbedingungen für KI-gestützte Produktion klären.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Ein Kriterienraster für Qualität, Originalität und Fachlichkeit abstimmen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Eine einfache Assistenzroutine für wiederkehrende Gestaltungsaufgaben weiterentwickeln.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Ein Format zur Verteidigung oder Erläuterung eigener Gestaltungsentscheidungen testen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Prozessreflexion und Variantenvergleich in eine Gestaltungsaufgabe integrieren.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Eine Präsentations- oder Portfolioaufgabe mit Reflexion entwickeln.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    }
+   ]
+  },
+  "3.2": {
+   "id": "3.2",
+   "titel": "Weiterverarbeiten und Integrieren",
+   "reflexionsfrage": "Wie integrieren Lernende KI-generierte Inhalte sinnvoll in eigene Arbeiten und bestehende Materialien?",
+   "raster": {
+    "lernende": [
+     "nutzen vorhandene digitale und KI-gestützte Inhalte als Ausgangspunkt für eigene Produkte und kennzeichnen einfache Übernahmen oder Anpassungen.",
+     "wählen digitale und KI-gestützte Inhalte gezielt aus, integrieren sie in eigene Produkte und begründen ihre Auswahl und Überarbeitung.",
+     "reflektieren Transformation, Auswahl und Integration als eigene gestalterische Leistung."
+    ],
+    "lehrkraefte": [
+     "zeigen Beispiele für gute und problematische Integration.",
+     "geben Überarbeitungsschritte und Kennzeichnungsregeln vor; lassen Versionen vergleichen und Entscheidungen begründen.",
+     "fördern anspruchsvolle Reorganisations-, Adaptions- und Transferaufgaben."
+    ],
+    "schulentwicklung": [
+     "Vorlagen zur KI-Kennzeichnung werden bereitgestellt.",
+     "Urheberrechtliche und datenschutzbezogene Grundfragen werden geklärt; Überarbeitungskompetenz wird in Unterrichtsvorhaben verankert.",
+     "Gemeinsame Standards für Integration, Quellenarbeit und Eigenanteil werden entwickelt."
+    ],
+    "pruefungskultur": [
+     "Übernahme, Anpassungen und KI-gestützte Weiterverarbeitung werden in einfachen Ausgabeformaten sichtbar gemacht.",
+     "Nachvollziehbare Überarbeitung und Einbettung werden eingefordert; Eigenanteil wird durch Prozessnotizen, Versionen oder Gespräche sichtbar gemacht.",
+     "Kriterien für Transformation, Kohärenz und reflektierte Nutzung werden entwickelt."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Wie prüfen unsere Schülerinnen und Schüler KI-Vorschläge, bevor sie sie weiterverwenden?",
+     "Wie passen sie KI-Inhalte an Aufgabe, Stil und eigene Aussage an?",
+     "Wie kombinieren sie eigene Arbeit, Quellen und KI-Ergebnisse kohärent?",
+     "Wie reflektieren sie Transformation, Auswahl und Integration als eigene Leistung?"
+    ],
+    "lehrkraefte": [
+     "Welche Beispiele guter und problematischer Integration nutzen wir?",
+     "Welche Überarbeitungsschritte und Kennzeichnungsregeln geben wir vor?",
+     "Wie lassen wir Versionen vergleichen und Entscheidungen begründen?",
+     "Wie gestalten wir Remix-, Adaptions- und Transferaufgaben?"
+    ],
+    "schulentwicklung": [
+     "Welche Vorlagen zur KI-Kennzeichnung stehen bereit?",
+     "Wie klären wir urheberrechtliche und datenschutzbezogene Grundfragen?",
+     "Wie verankern wir Überarbeitungskompetenz in Unterrichtsvorhaben?",
+     "Wie entwickeln wir gemeinsame Standards für Integration, Quellenarbeit und Eigenanteil?"
+    ],
+    "pruefungskultur": [
+     "Wie vermeiden wir die bloße Bewertung einer KI-Ausgabe?",
+     "Wie machen wir nachvollziehbare Überarbeitung und Einbettung sichtbar?",
+     "Wie wird Eigenanteil durch Prozessnotizen, Versionen oder Gespräche erkennbar?",
+     "Welche Kriterien brauchen wir für Transformation, Kohärenz und reflektierte Nutzung?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Gute und problematische Integrationsbeispiele vergleichen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Vorlagen zur KI-Kennzeichnung bereitstellen und erproben.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Eine Überarbeitungsaufgabe mit Versionsvergleich erproben.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Quellenarbeit, Eigenanteil und Kohärenz in Aufgabenstellungen sichtbar machen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Versionen, Entscheidungen und Einbettung dokumentieren lassen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Überarbeitungsschritte und Kennzeichnung integrierter KI-Inhalte vereinbaren.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Ein Aufgabenformat zu Remix, Adaption oder Transfer planen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Ein Reflexionsangebot zu Auswahl- und Integrationsentscheidungen entwickeln.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Kriterien für Kohärenz, Quellenarbeit und Eigenanteil abstimmen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Standards für Integration und reflektierte Nutzung in Fachschaften abstimmen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    }
+   ]
+  },
+  "3.3": {
+   "id": "3.3",
+   "titel": "Rechtliche Vorgaben beachten",
+   "reflexionsfrage": "Wie beachten Lernende bei KI-Produkten Urheberrecht, Datenschutz, Persönlichkeitsrechte und Transparenzpflichten?",
+   "raster": {
+    "lernende": [
+     "wissen, dass persönliche Daten und fremde Werke geschützt sind.",
+     "kennzeichnen KI-Hilfen und achten auf einfache Quellenangaben; prüfen Nutzungsrechte, Datenschutz und Persönlichkeitsrechte vor Veröffentlichung.",
+     "wenden rechtliche und ethische Kriterien in komplexen Produktionsprozessen an."
+    ],
+    "lehrkraefte": [
+     "geben klare Verbote und einfache Kennzeichnungsregeln vor und sind selbst Vorbild für eine transparente und verantwortungsvolle Nutzung digitaler und KI-gestützter Inhalte.",
+     "üben Quellenangaben, Datenschutz und Rechteklärung an Beispielen und integrieren rechtliche Prüfungen in Produktionsaufgaben.",
+     "lassen rechtliche Abwägungen begründen und auf neue Kontexte übertragen."
+    ],
+    "schulentwicklung": [
+     "Grundsätze zu Datenschutz, Urheberrecht und KI werden bereitgestellt.",
+     "Musterhinweise für Aufgaben und Veröffentlichungen werden erstellt; Rechteklärung wird in Medienkonzept und schulischen Abläufen verankert.",
+     "Verbindliche Standards für transparente, rechtssichere KI-Nutzung werden entwickelt."
+    ],
+    "pruefungskultur": [
+     "Zulässige Hilfsmittel sowie Anforderungen an Quellenangaben, KI-Nutzung und Eigenleistung werden in Prüfungsformaten transparent gemacht.",
+     "Kennzeichnung von Hilfsmitteln und Quellen wird eingefordert; Regelbeachtung und Transparenz werden in der Bewertung berücksichtigt.",
+     "Rechtssichere Prüfungsformate werden mit transparenter KI-Nutzung und Reflexion über Verantwortung, Urheberschaft und Eigenleistung verbunden."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Woran erkennen unsere Schülerinnen und Schüler, dass persönliche Daten und fremde Werke geschützt sind?",
+     "Wie kennzeichnen sie KI-Hilfen und geben Quellen einfach an?",
+     "Wie prüfen sie Nutzungsrechte, Datenschutz und Persönlichkeitsrechte vor einer Veröffentlichung?",
+     "Wie wenden sie rechtliche und ethische Kriterien in komplexeren Produktionsprozessen an?"
+    ],
+    "lehrkraefte": [
+     "Welche verbindlichen Regeln zur Nutzung und Kennzeichnung digitaler und KI-gestützter Inhalte legen wir fest?",
+     "Wie üben wir Quellenangaben, Datenschutz und Rechteklärung an Beispielen?",
+     "Wie wird in KI-Produktionsaufgaben verbindlich geklärt und reflektiert, welche Materialien, Daten und KI-Unterstützung genutzt werden dürfen und wie deren Einsatz transparent gemacht wird?",
+     "Wie lassen wir rechtliche Abwägungen begründen und auf neue Kontexte übertragen?"
+    ],
+    "schulentwicklung": [
+     "Welche Grundsätze zu Datenschutz, Urheberrecht und KI sind bereits geklärt?",
+     "Welche Musterhinweise für Aufgaben und Veröffentlichungen stehen bereit?",
+     "Wie verankern wir Rechteklärung in Medienkonzept und schulischen Abläufen?",
+     "Wie entwickeln wir verbindliche Standards für transparente, rechtssichere KI-Nutzung?"
+    ],
+    "pruefungskultur": [
+     "Wie werden rechtliche Vorgaben Bestandteil der Aufgabenstellung?",
+     "Wie kennzeichnen wir Hilfsmittel und Quellen transparent?",
+     "Wie berücksichtigen wir Regelbeachtung und Transparenz in der Bewertung?",
+     "Wie können Fallbeispiele rechtliche Urteilskompetenz sichtbar machen?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Ein einfaches Kennzeichnungsschema für KI-Hilfen und Quellen einführen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Klare Kennzeichnungsregeln und Verbote formulieren.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Rechtliche Grundsätze zu KI in Medienkonzept oder Leitlinien ergänzen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Quellenangaben, Datenschutz und Rechteklärung praktisch üben.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Eine Beispielaufgabe zur Rechteklärung und zum Datenschutz erproben.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Rechtliche Prüfungen in Produktionsaufgaben integrieren.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Musterhinweise für Aufgaben und Veröffentlichungen entwickeln.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Ein Bewertungsformat entwickeln, das Regelbeachtung und Transparenz berücksichtigt.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Verfahren zur Klärung von Nutzungsrechten, Quellenangaben und KI-Kennzeichnung in Medienkonzept und schulischen Abläufen verankern.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Fallbeispiele zur rechtlichen Urteilskompetenz nutzen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    }
+   ]
+  },
+  "4.1": {
+   "id": "4.1",
+   "titel": "Sicher in digitalen Umgebungen agieren",
+   "reflexionsfrage": "Wie handeln Lernende sicher, wenn KI-Systeme Empfehlungen geben, Daten erheben oder Entscheidungen vorbereiten?",
+   "raster": {
+    "lernende": [
+     "wissen, dass KI-Systeme große Mengen Daten verarbeiten.",
+     "wenden vereinbarte Sicherheitsregeln an und prüfen, ob Eingaben oder Dienste Risiken erkennen lassen.",
+     "treffen begründete Schutzentscheidungen."
+    ],
+    "lehrkraefte": [
+     "geben sichere Nutzungsregeln und zugelassene Umgebungen vor und arbeiten selbst risikobewusst.",
+     "thematisieren Risiken bei Uploads, Accounts und Toolauswahl, üben Risikoabwägung anhand schulischer Fallbeispiele.",
+     "entwickeln Lernarrangements zur kritischen Bewertung von KI-Systemen."
+    ],
+    "schulentwicklung": [
+     "Sichere, schulisch verantwortbare KI-Nutzungsräume werden vereinbart sowie Präventions- und Aufklärungsangebote initiiert.",
+     "Schulische Konzepte zu Jugendschutz, Medienbildung, IT-Sicherheit und Datenschutz werden miteinander verknüpft; Lehrkräfte werden zur aktiven Auseinandersetzung mit dem Thema angeregt.",
+     "Die Nutzung von Anwendungen wird auf freigegebene Dienste ausgerichtet."
+    ],
+    "pruefungskultur": [
+     "Nur zugelassene und sichere Umgebungen werden genutzt.",
+     "Erlaubte Tools und Eingaben sind vorab geklärt; verantwortlicher Umgang mit Daten und Systemen wird bewertet.",
+     "Prüfungen sind so gestaltet, dass Sicherheit und Eigenleistung gewährleistet sind."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Welche Risiken und Gefahren digitaler und KI-gestützter Umgebungen kennen wir bereits?",
+     "Wie erkennen wir sensible Daten vor der Eingabe in KI-Tools?",
+     "Welche Sicherheitsregeln gelten bei Accounts, Uploads und KI-Diensten?",
+     "Wie treffen wir begründete Schutzentscheidungen bei automatisierten Systemen?"
+    ],
+    "lehrkraefte": [
+     "Welche sicheren Nutzungsregeln und zugelassenen Umgebungen geben wir vor?",
+     "Wie thematisieren wir Risiken bei Accounts, Uploads und KI-Diensten?",
+     "Wie üben wir Risikoabwägung anhand schulischer Fallbeispiele?",
+     "Wie gestalten wir Lernarrangements zur kritischen Bewertung von KI-Systemen?"
+    ],
+    "schulentwicklung": [
+     "Welche sicheren, schulisch verantwortbaren KI-Nutzungsräume sind geklärt?",
+     "Welche Hinweise zu Datenschutz, Zugang und Aufsicht liegen vor?",
+     "Wie verknüpfen wir Datenschutz, IT-Sicherheit und Medienbildung?",
+     "Wie stellen wir sicher, dass nur freigegebene Dienste genutzt werden?"
+    ],
+    "pruefungskultur": [
+     "Welche zugelassenen, sicheren Umgebungen nutzen wir?",
+     "Wie klären wir erlaubte Tools und Eingaben vorab?",
+     "Wie bewerten wir verantwortlichen Umgang mit Daten und Systemen?",
+     "Wie sichern wir in Prüfungen Eigenleistung und Sicherheit?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Sensible Eingaben vermeiden und Schutzmaßnahmen üben.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Risiken bei Accounts, Uploads und Tools thematisieren.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Sichere Nutzungsregeln und zugelassene Umgebungen klären.",
+     "perspektiven": [
+      "lernende"
+     ]
+    },
+    {
+     "text": "Fallbeispiele zur Risikoabwägung nutzen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Datenschutz, IT-Sicherheit und Medienbildung verbinden.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    }
+   ]
+  },
+  "4.2": {
+   "id": "4.2",
+   "titel": "Persönliche Daten und Privatsphäre schützen",
+   "reflexionsfrage": "Wie schützen Lernende eigene und fremde Daten bei der Nutzung von KI?",
+   "raster": {
+    "lernende": [
+     "erkennen personenbezogene Daten an einfachen Beispielen.",
+     "geben keine personenbezogenen Daten in KI-Systeme ein, pseudonymisieren oder anonymisieren Beispiele und prüfen, ob Daten anderer betroffen sind.",
+     "beurteilen Datenschutzrisiken auch bei scheinbar harmlosen KI-Anwendungen wie Musikempfehlungen."
+    ],
+    "lehrkraefte": [
+     "geben den Lernenden Datenschutzregeln für die KI-Nutzung zur Kenntnis.",
+     "zeigen, wie Aufgaben ohne personenbezogene Daten bearbeitet werden können, lassen Anonymisierung und Pseudonymisierung praktisch üben.",
+     "entwickeln datenschutzsensible Aufgabenformate und Reflexionsanlässe oder setzen entsprechendes vorgefertigtes Material ein."
+    ],
+    "schulentwicklung": [
+     "Verbindliche Regeln zum Schutz persönlicher Daten und der Privatsphäre werden Lehrkräften, Lernenden und Erziehungsberechtigten bekannt gemacht.",
+     "Es wird geklärt, welche KI-Angebote schulisch genutzt werden dürfen; Datenschutz wird in KI-Leitlinien und Fortbildung verankert.",
+     "Die entsprechenden Prozesse werden regelmäßig überprüft und bei Bedarf verbessert."
+    ],
+    "pruefungskultur": [
+     "Personenbezogene Daten werden aus KI-Eingaben ausgeschlossen.",
+     "Materialien und Tools werden transparent festgelegt; Datenschutzbewusstsein wird bei Prozessaufgaben bewertet.",
+     "Datenschutz ist in Prüfungssettings gesichert."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Wie erkennen wir personenbezogene Daten?",
+     "Wie vermeiden wir die Eingabe personenbezogener Daten in KI-Systeme?",
+     "Wie pseudonymisieren oder anonymisieren wir Daten?",
+     "Wie beurteilen wir Datenschutzrisiken auch bei scheinbar harmlosen Anwendungen?"
+    ],
+    "lehrkraefte": [
+     "Welche Datenschutzregeln für KI-Anwendungen gelten bereits?",
+     "Wie zeigen wir Bearbeitungswege ohne personenbezogene Daten?",
+     "Wie üben wir Pseudonymisierung, Anonymisierung und Datensparsamkeit praktisch?",
+     "Wie entwickeln wir datenschutzsensible Aufgabenformate und Reflexionsanlässe?"
+    ],
+    "schulentwicklung": [
+     "Welche verbindlichen Nutzungsregeln liegen vor?",
+     "Welche KI-Angebote dürfen schulisch genutzt werden?",
+     "Wie verankern wir Datenschutz in KI-Leitlinien und Fortbildung?",
+     "Wie prüfen wir Prozesse regelmäßig und verbessern diese?"
+    ],
+    "pruefungskultur": [
+     "Wie vermeiden wir die Eingabe personenbezogener Daten in KI-Systeme?",
+     "Wie legen wir zugelassene Materialien und Tools transparent fest?",
+     "Wie bewerten wir Datenschutzbewusstsein bei Prozessaufgaben?",
+     "Wie sichern wir Datenschutz in Prüfungssettings?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Zugelassene KI-Angebote klären.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Eine Unterrichtsaufgabe zur Anonymisierung erproben.",
+     "perspektiven": [
+      "lernende"
+     ]
+    },
+    {
+     "text": "Personenbezogene Daten erkennen und deren Eingabe vermeiden.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Datenschutzregeln bekannt geben.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Ein einfaches Datenschutzmerkblatt zur KI-Nutzung erstellen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Pseudonymisierung, Anonymisierung und Datensparsamkeit praktisch üben.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Prüfungssettings datenschutzsensibel gestalten.",
+     "perspektiven": [
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Zugelassene Materialien und Anwendungen für KI-Aufgaben transparent festlegen.",
+     "perspektiven": [
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Datenschutzaspekte in schulischen KI-Leitlinien ergänzen.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Datenschutz in Leitlinien, Fortbildungen und Aufgaben verankern.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    }
+   ]
+  },
+  "4.3": {
+   "id": "4.3",
+   "titel": "Selbstregulation und soziale Kompetenzen entwickeln",
+   "reflexionsfrage": "Wie nutzen Lernende KI so, dass Konzentration, Wohlbefinden, Selbstwirksamkeit und soziale Beziehungen gestärkt werden?",
+   "raster": {
+    "lernende": [
+     "nehmen wahr, dass KI-Nutzung erleichtern, aber auch überfordern kann.",
+     "achten auf Pausen, Konzentration und eigene Lernaktivität, reflektieren, wann KI hilft und wann sie eigenes Denken ersetzt.",
+     "entwickeln selbstregulierte Strategien für gesunde, wirksame KI-Nutzung."
+    ],
+    "lehrkraefte": [
+     "setzen kurze, pädagogisch sinnvolle KI-Phasen ein.",
+     "thematisieren Überforderung, Abhängigkeit und Konzentration, fördern Balance zwischen KI-Unterstützung, Eigenarbeit und Austausch.",
+     "entwickeln Lernsettings, die Selbstwirksamkeit und metakognitive Kontrolle stärken."
+    ],
+    "schulentwicklung": [
+     "Gesundheit wird als Aspekt digitaler Bildung aufgenommen.",
+     "Einfache und klare Regeln zu Bildschirmzeit und KI-Phasen werden vereinbart; Medienbildung, Prävention und Lernkultur werden verknüpft.",
+     "Konzepte für gesunde digitale Schul- und Unterrichtsroutinen werden entwickelt."
+    ],
+    "pruefungskultur": [
+     "Prüfungsformate, die dauerhafte Tool-Abhängigkeit fördern, werden vermieden.",
+     "Transparente und entlastende Rahmenbedingungen werden geschaffen; Reflexion über Lernstrategien und KI-Unterstützung wird bewertet.",
+     "Formate werden gestärkt, die Selbständigkeit, Resilienz und Lernprozesse sichtbar machen."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Woran und wann merken wir, dass KI-Nutzung uns hilft oder überfordert?",
+     "Wie achten wir auf eigene Pausen, Konzentration und Lernaktivität?",
+     "Wann unterstützt KI unser Lernen – und wann ersetzt sie eigenes Denken?",
+     "Wie entwickeln wir gesunde und wirksame Strategien der KI-Nutzung?"
+    ],
+    "lehrkraefte": [
+     "Wie setzen wir kurze, pädagogisch sinnvolle KI-Phasen ein?",
+     "Wie thematisieren wir Überforderung, Abhängigkeit und Konzentration?",
+     "Wie fördern wir Balance zwischen KI-Unterstützung, Eigenarbeit und Austausch?",
+     "Wie gestalten wir Lernsettings, die Selbstwirksamkeit und metakognitive Kontrolle stärken?"
+    ],
+    "schulentwicklung": [
+     "Wie machen wir Gesundheit als Aspekt digitaler Bildung sichtbar?",
+     "Welche Regeln zu Bildschirmzeit und KI-Nutzung sind vereinbart?",
+     "Wie verknüpfen wir Medienbildung, Prävention und Lernkultur?",
+     "Wie entwickeln wir gesunde digitale Schul- und Unterrichtsroutinen?"
+    ],
+    "pruefungskultur": [
+     "Wie vermeiden wir Prüfungsformate mit dauerhafter Tool-Abhängigkeit?",
+     "Welche transparenten und entlastenden Rahmenbedingungen brauchen wir?",
+     "Wie bewerten wir Reflexion über Lernstrategien und KI-Unterstützung?",
+     "Wie stärken wir Formate, die Selbständigkeit, Resilienz und Lernprozess sichtbar machen?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Pausen, Konzentration und Lernaktivität bewusst planen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "KI-Phasen mit klaren Pausen- und Austauschzeiten im Unterricht erproben.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Regeln zu Bildschirmzeit und KI-Nutzung vereinbaren.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Ein einfaches Reflexionsschema zu gesunder KI-Nutzung einführen.",
+     "perspektiven": [
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Ein Prüfungsformat auf Tool-Abhängigkeit prüfen.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Leitfragen zu Konzentration und Eigenaktivität in Aufgaben integrieren.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Balance zwischen KI-Unterstützung, Eigenarbeit und Austausch unterstützen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Selbstwirksamkeit und metakognitive Kontrolle stärken.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Gesundheitsbewusste Schul- und Unterrichtsroutinen entwickeln.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Prüfungsformate auf Selbständigkeit und Resilienz ausrichten.",
+     "perspektiven": [
+      "pruefungskultur"
+     ]
+    }
+   ]
+  },
+  "4.4": {
+   "id": "4.4",
+   "titel": "Natur und Umwelt schützen",
+   "reflexionsfrage": "Wie reflektieren Lernende ökologische Auswirkungen von KI und digitaler Infrastruktur?",
+   "raster": {
+    "lernende": [
+     "wissen, dass digitale Dienste Ressourcen verbrauchen und dass KI-Systeme besonders viele Ressourcen benötigen.",
+     "überlegen, ob KI für eine Aufgabe nötig ist, wägen Nutzen, Aufwand und ökologische Folgen einfacher KI-Nutzung ab.",
+     "analysieren ökologische, soziale und ökonomische Folgen der Nutzung von KI-Systemen."
+    ],
+    "lehrkraefte": [
+     "machen Ressourcenverbrauch digitaler Systeme sichtbar.",
+     "fragen nach angemessener Toolwahl statt automatischer KI-Nutzung, integrieren Nachhaltigkeit in KI-Aufgaben und Reflexionsphasen.",
+     "gestalten fächerübergreifende Projekte zu KI, Ressourcen und Verantwortung."
+    ],
+    "schulentwicklung": [
+     "Nachhaltigkeit wird in Leitlinien aufgenommen.",
+     "Eine angemessene und ressourcenschonende KI-Nutzung wird gefördert; Medienkonzept, Bildung für nachhaltige Entwicklung und KI werden miteinander verknüpft.",
+     "Kriterien für nachhaltige digitale Schulentwicklung werden entwickelt."
+    ],
+    "pruefungskultur": [
+     "Es wird nach begründetem Einsatz statt bloßer Toolnutzung gefragt.",
+     "Nachhaltige Entscheidungen werden in Reflexionen berücksichtigt; Aufgaben zur Nutzen-Risiko- und Ressourcenabwägung werden genutzt.",
+     "Systemisches Denken zu KI, Umwelt und gesellschaftlicher Verantwortung wird geprüft."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Woran erkennen wir, dass digitale Dienste und KI-Anwendungen Ressourcen verbrauchen?",
+     "Wie prüfen wir, ob KI für eine Aufgabe wirklich nötig ist?",
+     "Wie wägen wir Nutzen, Aufwand und ökologische Folgen einfacher KI-Nutzung ab?",
+     "Wie analysieren wir ökologische, soziale und ökonomische Folgen der Nutzung von KI-Systemen?"
+    ],
+    "lehrkraefte": [
+     "Wie machen wir den Ressourcenverbrauch digitaler Systeme sichtbar?",
+     "Wie fördern wir angemessene Toolwahl statt automatischer KI-Nutzung?",
+     "Wie integrieren wir Nachhaltigkeit in KI-Aufgaben und Reflexionsphasen?",
+     "Wie gestalten wir Projekte zu KI, Ressourcen und Verantwortung?"
+    ],
+    "schulentwicklung": [
+     "Wie nehmen wir Nachhaltigkeit in Leitlinien auf?",
+     "Wie sensibilisieren wir für angemessene und sparsame KI-Nutzung?",
+     "Wie verbinden wir Medienkonzept, Bildung für nachhaltige Entwicklung und KI?",
+     "Wie entwickeln wir Kriterien für nachhaltige digitale Schulentwicklung?"
+    ],
+    "pruefungskultur": [
+     "Wie fragen wir nach begründetem Einsatz statt bloßer Toolnutzung?",
+     "Wie berücksichtigen wir nachhaltige Entscheidungen in Reflexionen?",
+     "Welche Aufgaben zur Nutzen-Risiko- und Ressourcenabwägung eignen sich?",
+     "Wie prüfen wir systemisches Denken zu KI, Umwelt und gesellschaftlicher Verantwortung?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Ressourcenverbrauch digitaler Systeme sichtbar machen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Leitfragen zur begründeten Toolwahl im Unterricht erproben.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Eine Unterrichtsaufgabe zur Ressourcenabwägung bei KI-Nutzung planen.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Nutzen, Aufwand und ökologische Folgen abwägen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Nachhaltigkeit in KI-Aufgaben und Reflexionen integrieren.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Begründete Toolwahl statt automatischer KI-Nutzung fördern.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Ein fächerübergreifendes Projekt zu KI und Verantwortung anbahnen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Medienkonzept, KI und BNE verknüpfen.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Ein Prüfungsformat um Reflexion zu Ressourceneinsatz ergänzen.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Kriterien für nachhaltige digitale Schulentwicklung entwickeln.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    }
+   ]
+  },
+  "5.1": {
+   "id": "5.1",
+   "titel": "Technische Probleme lösen",
+   "reflexionsfrage": "Wie gehen Lernende mit Fehlern, Grenzen und Störungen bei KI-Systemen produktiv um?",
+   "raster": {
+    "lernende": [
+     "erkennen einfache technische Probleme oder unpassende Antworten.",
+     "versuchen naheliegende Lösungen wie Neuformulieren, Prüfen oder Wechseln des Weges; analysieren Fehlerquellen und wählen geeignete Alternativen.",
+     "entwickeln robuste Strategien für Arbeiten mit unsicheren oder begrenzten KI-Systemen."
+    ],
+    "lehrkraefte": [
+     "planen einfache Ausweichwege ein.",
+     "zeigen, wie Prompts und Eingaben bei Problemen angepasst werden; lassen technische und inhaltliche Fehler unterscheiden.",
+     "fördern Fehlertoleranz, Debugging und strategisches Problemlösen."
+    ],
+    "schulentwicklung": [
+     "Supportwege und einfache Handreichungen werden bereitgestellt.",
+     "Typische Probleme und Lösungen für zugelassene Tools werden gesammelt; eine positive Fehlerkultur und technische Grundkompetenz im Kollegium werden verankert.",
+     "Austauschformate zum reflektierten Umgang mit Fehlern und Grenzen von KI-Systemen werden durchgeführt und eine positive Fehlerkultur wird weiterentwickelt."
+    ],
+    "pruefungskultur": [
+     "Es wird berücksichtigt, ob Lernende einfache Probleme erkennen und angemessen darauf reagieren.",
+     "Neben dem Ergebnis werden auch der Umgang mit Fehlern, unpassenden KI-Antworten und gewählte Lösungswege bewertet.",
+     "Strategisches Problemlösen, die Reflexion über Grenzen der KI sowie begründete Alternativentscheidungen werden zu Bestandteilen der Prüfungsleistung."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Woran erkennen wir einfache technische Probleme oder unpassende KI-Antworten?",
+     "Welche naheliegenden Lösungen wie Neuformulieren, Prüfen oder Wechseln des Weges nutzen wir?",
+     "Wie analysieren wir Fehlerquellen und wählen geeignete Alternativen?",
+     "Wie entwickeln wir robuste Strategien für Arbeiten mit unsicheren oder begrenzten KI-Systemen?"
+    ],
+    "lehrkraefte": [
+     "Welche Ausweichwege planen wir ein?",
+     "Wie zeigen wir, dass Prompts und Eingaben bei Problemen angepasst werden können?",
+     "Wie lassen wir technische und inhaltliche Fehler unterscheiden?",
+     "Wie fördern wir Fehlertoleranz, Debugging und strategisches Problemlösen?"
+    ],
+    "schulentwicklung": [
+     "Welche Supportwege und einfachen Handreichungen stehen bereit?",
+     "Welche typischen Probleme und Lösungen für zugelassene Tools kennen wir?",
+     "Wie verankern wir Fehlerkultur und technische Grundkompetenz im Kollegium?",
+     "Wie entwickeln wir verlässliche Strukturen für KI-Einsatz, Support und Fortbildung?"
+    ],
+    "pruefungskultur": [
+     "Wie behandeln wir technische Störungen in Prüfungen?",
+     "Welche gleichwertigen Alternativen bieten wir bei Toolausfall?",
+     "Wie wird in Prüfungen sichtbar, dass Lernende Fehler, Grenzen oder Störungen von KI-Systemen erkennen und produktiv bearbeiten?",
+     "Wie dokumentieren Lernende nachvollziehbar, wann und warum sie KI-Ergebnisse prüfen, verwerfen oder durch andere Wege ersetzen?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Ausweichwege und Alternativen für begrenzte Systeme planen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Eine Übersicht typischer KI-Probleme und Lösungen im Unterricht erstellen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Ein Aufgabenformat mit bewusst eingebauten Fehlerfällen erproben.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Austauschformate zu typischen Fehlern, Grenzen, Halluzinationen und Prüfstrategien von KI-Systemen anbieten.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Fehlerkultur, Debugging und strategisches Problemlösen fördern.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    }
+   ]
+  },
+  "5.2": {
+   "id": "5.2",
+   "titel": "Digitale Technologien bedarfsgerecht einsetzen",
+   "reflexionsfrage": "Wie wählen Lernende passende KI- und Nicht-KI-Werkzeuge für konkrete Aufgaben aus?",
+   "raster": {
+    "lernende": [
+     "probieren einfache KI-Hilfen für klar begrenzte Aufgaben aus.",
+     "entscheiden mit Unterstützung, ob KI oder ein anderes Werkzeug passt; begründen Toolwahl anhand von Ziel, Qualität, Aufwand und Risiken.",
+     "entwickeln flexible Werkzeugstrategien für komplexe Problemstellungen."
+    ],
+    "lehrkraefte": [
+     "geben geeignete und ungeeignete Einsatzbeispiele vor.",
+     "modellieren Kriterien für die Werkzeugauswahl; lassen Lernende Toolentscheidungen vergleichen und begründen.",
+     "gestalten offene Aufgaben mit reflektierter, eigenständiger Werkzeugwahl."
+    ],
+    "schulentwicklung": [
+     "Eine Orientierung zu zugelassenen Tools wird bereitgestellt.",
+     "Fachbezogene Einsatzszenarien werden gesammelt; Werkzeugkompetenz wird in Fach- und Mediencurricula verankert.",
+     "Standards für pädagogisch begründete KI-Auswahl werden entwickelt."
+    ],
+    "pruefungskultur": [
+     "Es wird geklärt, welche Werkzeuge erlaubt sind.",
+     "Bei offenen Aufgaben wird eine Begründung der Werkzeugwahl eingefordert; Passung, Zweckmäßigkeit und verantwortliche Nutzung werden bewertet.",
+     "Reflektierte Toolkompetenz wird in geeigneten Prüfungsformaten sichtbar gemacht."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Welche Aufgaben eignen sich für KI – und welche eher nicht?",
+     "Nach welchen Kriterien wählen wir ein passendes Werkzeug aus?",
+     "Wie begründen wir Toolwahl anhand von Ziel, Qualität, Aufwand und Risiken?",
+     "Wie entwickeln wir flexible Strategien für komplexe Problemstellungen?"
+    ],
+    "lehrkraefte": [
+     "Welche geeigneten und ungeeigneten Einsatzbeispiele geben wir vor?",
+     "Wie modellieren wir Kriterien für die Werkzeugauswahl?",
+     "Wie lassen wir Lernende Toolentscheidungen vergleichen und begründen?",
+     "Wie gestalten wir offene Aufgaben mit reflektierter, eigenständiger Werkzeugwahl?"
+    ],
+    "schulentwicklung": [
+     "Welche Orientierung zu zugelassenen Tools liegt vor?",
+     "Welche fachbezogenen Einsatzszenarien sammeln wir?",
+     "Wie verankern wir KI-Medienkompetenz in Fach- und Mediencurricula?",
+     "Wie entwickeln wir Standards für pädagogisch begründete KI-Auswahl?"
+    ],
+    "pruefungskultur": [
+     "Welche Werkzeuge sind in offenen Aufgaben erlaubt?",
+     "Wie machen wir die Begründung der Werkzeugwahl sichtbar?",
+     "Wie bewerten wir Passung, Zweckmäßigkeit und verantwortliche Nutzung?",
+     "Welche Prüfungsformate machen reflektierte Toolkompetenz sichtbar?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "KI- und Nicht-KI-Werkzeuge vergleichend erproben.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Zugelassene Werkzeuge und Einsatzszenarien transparent machen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Toolentscheidungen begründen und reflektieren.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Kriterien für Werkzeugwahl vereinbaren.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Eine Reflexionsroutine zur Begründung der Toolwahl einführen.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Ein Aufgabenformat mit offener, begründeter Werkzeugwahl entwickeln.",
+     "perspektiven": [
+      "pruefungskultur"
+     ]
+    }
+   ]
+  },
+  "5.3": {
+   "id": "5.3",
+   "titel": "Eigene Stärken und Entwicklungsbereiche ermitteln und gezielt Strategien entwickeln",
+   "reflexionsfrage": "Wie nutzen Lernende KI, um Lernstände zu erkennen, Unterstützung zu erhalten und nächste Lernschritte zu planen?",
+   "raster": {
+    "lernende": [
+     "fragen KI nach einfachen Erklärungen oder Übungsaufgaben.",
+     "nutzen Rückmeldungen, um eigene Lücken zu erkennen; planen mit Unterstützung gezielte nächste Lernschritte.",
+     "reflektieren Lernfortschritt, Qualität der Hilfe und eigene Verantwortung."
+    ],
+    "lehrkraefte": [
+     "zeigen sichere Formen von KI als Lernhilfe.",
+     "geben Prompts zur Selbsteinschätzung und Fehleranalyse vor; verknüpfen KI-Rückmeldungen mit fachlichem Feedback.",
+     "entwickeln personalisierte Lernwege mit Reflexion und pädagogischer Begleitung."
+    ],
+    "schulentwicklung": [
+     "KI-gestützte Lernhilfen in geschützten Settings werden erprobt.",
+     "Vorlagen für Lernstandsreflexion werden bereitgestellt; adaptive Unterstützung wird in Förder- und Unterrichtskonzepten verankert.",
+     "Konzepte für faire, transparente und datensensible Lernbegleitung werden entwickelt."
+    ],
+    "pruefungskultur": [
+     "Übungs- und Bewertungssituationen werden klar voneinander getrennt.",
+     "KI-gestützte Selbsteinschätzung wird formativ genutzt; Fehleranalyse und nächste Schritte werden berücksichtigt.",
+     "Lernfortschritt, Reflexion, Selbstregulation, Fehleranalyse und verantwortungsvolle KI-Nutzung für das eigene Lernen werden in prozessorientierten Leistungsnachweisen bewertet."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Wie nutzen wir KI für Erklärungen oder Übungsaufgaben?",
+     "Wie erkennen wir mit KI-Rückmeldungen eigene Lücken?",
+     "Wie planen wir mit KI-Unterstützung gezielte nächste Lernschritte?",
+     "Wie reflektieren wir Lernfortschritt, Qualität der Hilfe und eigene Verantwortung?"
+    ],
+    "lehrkraefte": [
+     "Welche sicheren Formen von KI als Lernhilfe zeigen wir?",
+     "Welche Prompts zur Selbsteinschätzung und Fehleranalyse geben wir vor?",
+     "Wie verknüpfen wir KI-Rückmeldungen mit fachlichem Feedback?",
+     "Wie entwickeln wir personalisierte Lernwege mit Reflexion und pädagogischer Begleitung?"
+    ],
+    "schulentwicklung": [
+     "Welche KI-gestützten Lernhilfen erproben wir in geschützten Settings?",
+     "Welche Vorlagen für Lernstandsreflexion liegen vor?",
+     "Wie verankern wir adaptive Unterstützung in Förder- und Unterrichtskonzepten?",
+     "Wie entwickeln wir Konzepte für faire, transparente und datensensible Lernbegleitung?"
+    ],
+    "pruefungskultur": [
+     "Wie trennen wir Übungs- und Bewertungssituationen klar?",
+     "Wie nutzen wir KI-gestützte Selbsteinschätzung formativ?",
+     "Wie bewerten wir Lernprozess, Fehleranalyse und nächste Schritte?",
+     "Wie stärken wir reflektierte Lernportfolios statt reiner Ergebnisabgabe?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Vorlagen für Lernstandsreflexion bereitstellen.",
+     "perspektiven": [
+      "lernende"
+     ]
+    },
+    {
+     "text": "Übungs- und Bewertungssituationen klar unterscheiden.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "KI-Systeme zur Selbsteinschätzung und Fehleranalyse nutzen.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "KI-Rückmeldungen mit fachlichem Feedback verbinden.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Ein Lernportfolio mit Reflexion und Feedback pilotieren.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Adaptive, datensensible Lernbegleitung erproben.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    }
+   ]
+  },
+  "5.4": {
+   "id": "5.4",
+   "titel": "Digitale Werkzeuge und Medien zum Lernen, Arbeiten und Problemlösen nutzen",
+   "reflexionsfrage": "Wie setzen Lernende KI produktiv ein, um Probleme zu strukturieren, Lösungswege zu entwickeln und Ergebnisse zu prüfen?",
+   "raster": {
+    "lernende": [
+     "nutzen KI, um Aufgaben besser zu verstehen.",
+     "lassen sich Lösungswege vorschlagen und prüfen sie mit Unterstützung; entwickeln, vergleichen und überarbeiten Lösungsstrategien mit KI.",
+     "nutzen KI metakognitiv: planen, prüfen, verwerfen, begründen und transferieren."
+    ],
+    "lehrkraefte": [
+     "geben strukturierende KI-Hilfen für komplexe Aufgaben vor.",
+     "lassen Lösungsvorschläge prüfen statt übernehmen; fördern Strategievergleich, Fehleranalyse und Reflexion.",
+     "gestalten problemlöseorientierten Unterricht mit KI als kontrolliertem Werkzeug."
+    ],
+    "schulentwicklung": [
+     "Beispiele für KI-gestütztes Problemlösen werden gesammelt.",
+     "Fachbezogene Einsatzszenarien für Lern- und Arbeitsprozesse werden entwickelt; Problemlösekompetenz mit KI wird in der Unterrichtsentwicklung verankert.",
+     "Gemeinsame Standards für kognitive Aktivierung trotz KI-Unterstützung werden entwickelt."
+    ],
+    "pruefungskultur": [
+     "Lösungsweg und Begründung werden stärker als das bloße Ergebnis bewertet.",
+     "Strategie, Prüfung und Überarbeitung werden sichtbar gemacht; Aufgaben mit Transfer, Variantenvergleich und Reflexion werden genutzt.",
+     "Eigenständige Problemlöseleistung trotz KI-Unterstützung wird durch die Dokumentation von Strategie, Prüfung, Begründung und Transfer sichtbar gemacht."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Wie nutzen wir KI, um Aufgaben besser zu verstehen?",
+     "Wie lassen wir uns Lösungswege vorschlagen und prüfen sie mit Unterstützung?",
+     "Wie entwickeln, vergleichen und überarbeiten wir Lösungsstrategien mit KI?",
+     "Wie planen, prüfen, verwerfen, begründen und überarbeiten wir KI-Ausgaben?"
+    ],
+    "lehrkraefte": [
+     "Welche strukturierenden KI-Hilfen geben wir für komplexe Aufgaben vor?",
+     "Wie lassen wir Lösungsvorschläge prüfen statt übernehmen?",
+     "Wie fördern wir Strategievergleich, Fehleranalyse und Reflexion?",
+     "Wie gestalten wir problemlöseorientierten Unterricht mit KI als kontrolliertem Werkzeug?"
+    ],
+    "schulentwicklung": [
+     "Welche Beispiele für KI-gestütztes Problemlösen sammeln wir?",
+     "Welche fachbezogenen Einsatzszenarien entwickeln wir für Lern- und Arbeitsprozesse?",
+     "Wie verankern wir Problemlösekompetenz mit KI in Unterrichtsentwicklung?",
+     "Wie entwickeln wir gemeinsame Standards für kognitive Aktivierung trotz KI-Unterstützung?"
+    ],
+    "pruefungskultur": [
+     "Wie gewichten wir Lösungsweg und Begründung stärker als bloßes Ergebnis?",
+     "Wie machen wir Strategie, Prüfung und Überarbeitung sichtbar?",
+     "Welche Aufgaben mit Transfer, Variantenvergleich und Reflexion nutzen wir?",
+     "Wie entwickeln wir Prüfungsformate, in denen KI kognitive Leistung nicht verdeckt?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Lösungsvorschläge prüfen statt übernehmen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Fachbezogene Einsatzszenarien für Problemlösen mit KI sammeln.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Strategievergleich, Fehleranalyse und Reflexion fördern.",
+     "perspektiven": [
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Eine komplexe Aufgabe mit KI-Hilfe lösen.",
+     "perspektiven": [
+      "lernende"
+     ]
+    },
+    {
+     "text": "Kognitive Aktivierung trotz KI-Unterstützung sichern.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Prüfungsformate mit sichtbarem Lösungsweg und Eigenleistung entwickeln.",
+     "perspektiven": [
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    }
+   ]
+  },
+  "5.5": {
+   "id": "5.5",
+   "titel": "Algorithmen erkennen und formulieren",
+   "reflexionsfrage": "Wie verstehen Lernende algorithmische Logiken und deren Bedeutung für KI-Systeme?",
+   "raster": {
+    "lernende": [
+     "erkennen, dass KI nach Mustern und Regeln arbeitet.",
+     "beschreiben einfache Abläufe oder Entscheidungsregeln; nutzen und vergleichen regelbasierte Abläufe und probabilistische KI-Ausgaben.",
+     "analysieren algorithmische Entscheidungen, Trainingsdaten und gesellschaftliche Folgen."
+    ],
+    "lehrkraefte": [
+     "nutzen einfache Beispiele für Muster und Regeln.",
+     "lassen Abläufe als Schrittfolgen oder Wenn-dann-Regeln formulieren; erläutern algorithmisches Denken an KI-Beispielen aus dem Alltag.",
+     "gestalten Aufgaben zu Daten, Modellen, Automatisierung und Verantwortung."
+    ],
+    "schulentwicklung": [
+     "Algorithmisches Denken wird als Querschnitt sichtbar gemacht.",
+     "Fachübergreifende Beispiele zu KI und Automatisierung werden gesammelt; Grundlagen von Algorithmen und KI werden in Curricula verankert.",
+     "Ein abgestimmtes Konzept zu AI Literacy und informatischer Bildung wird entwickelt."
+    ],
+    "pruefungskultur": [
+     "Grundlegendes Verständnis wird geprüft, nicht allein die Bedienung von Tools.",
+     "Einfache Erklär- und Analyseaufgaben zu Algorithmen werden genutzt; Modellverständnis, Fehlereinschätzung und Transfer werden bewertet.",
+     "Aufgaben zum Einsatz von KI-Systemen, algorithmischer Verantwortung und gesellschaftlicher Wirkung werden entwickelt."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Woran erkennen wir, dass KI nach Mustern und Regeln arbeitet?",
+     "Wie beschreiben wir einfache Abläufe oder Entscheidungsregeln?",
+     "Wie unterscheiden wir regelbasierte Abläufe, Datenmuster und probabilistische KI-Ausgaben?",
+     "Wie analysieren wir algorithmische Entscheidungen, Trainingsdaten und gesellschaftliche Folgen?"
+    ],
+    "lehrkraefte": [
+     "Welche einfachen Beispiele für Muster und Regeln nutzen wir?",
+     "Wie lassen wir Abläufe als Schrittfolgen oder Wenn-dann-Regeln formulieren?",
+     "Wie verbinden wir algorithmisches Denken mit KI-Beispielen aus dem Alltag?",
+     "Wie gestalten wir Aufgaben zu Daten, Modellen, Automatisierung und Verantwortung?"
+    ],
+    "schulentwicklung": [
+     "Wie machen wir algorithmisches Denken als Querschnitt sichtbar?",
+     "Welche fachübergreifenden Beispiele zu KI und Automatisierung sammeln wir?",
+     "Wie verankern wir Grundlagen von Algorithmen und KI in Curricula?",
+     "Wie entwickeln wir ein abgestimmtes Konzept zu AI Literacy und informatischer Bildung?"
+    ],
+    "pruefungskultur": [
+     "Wie prüfen wir grundlegendes Verständnis statt Toolbedienung allein?",
+     "Welche Erklär- und Analyseaufgaben zu Algorithmen nutzen wir?",
+     "Wie bewerten wir Modellverständnis, Fehlereinschätzung und Transfer?",
+     "Wie entwickeln wir Aufgaben zu algorithmischer Verantwortung und gesellschaftlicher Wirkung?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Eine einfache Unterrichtssequenz zu Mustern und Regeln erproben.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "KI-Beispiele aus dem Alltag für algorithmisches Denken nutzen.",
+     "perspektiven": [
+      "lernende",
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Alltagsbeispiele für regelbasierte und probabilistische Systeme sammeln.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Informatische Bildung und AI Literacy verbinden.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Grundlagen zu Algorithmen und KI in Fachcurricula verankern.",
+     "perspektiven": [
+      "lehrkraefte",
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Prüfungsformate zu regelbasierten und probabilistischen Systemen sowie Verantwortung und gesellschaftlicher Wirkung entwickeln.",
+     "perspektiven": [
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    }
+   ]
+  },
+  "6.1": {
+   "id": "6.1",
+   "titel": "Digitale Medien und Medienlogiken analysieren und bewerten",
+   "reflexionsfrage": "Wie bewerten Lernende digitale Medien, Medienlogiken und KI-gestützte Informationsangebote kritisch und reflektieren deren Wirkungen auf Meinungsbildung, Teilhabe und Gesellschaft?",
+   "raster": {
+    "lernende": [
+     "erkennen grundlegende Merkmale digitaler Medien, Medienlogiken und KI-gestützter Informationsangebote.",
+     "prüfen Informationsqualität, Quellen, Darstellungsformen und algorithmische Sichtbarkeit und vergleichen unterschiedliche Perspektiven.",
+     "analysieren Medien- und KI-Logiken kritisch und reflektieren deren Wirkungen auf Meinungsbildung, Teilhabe, Öffentlichkeit und Demokratie."
+    ],
+    "lehrkraefte": [
+     "führen einfache Kriterien zur Analyse und Bewertung digitaler Medien und KI-gestützter Informationen ein.",
+     "lassen Lernende Informationsangebote, Plattformmechanismen und KI-Ausgaben vergleichen, prüfen und begründet einordnen.",
+     "fördern kritische Medienreflexion, demokratische Urteilskraft und die Auseinandersetzung mit gesellschaftlichen Wirkungen digitaler und KI-geprägter Öffentlichkeiten."
+    ],
+    "schulentwicklung": [
+     "Grundlegende Kriterien zur Bewertung digitaler Informationen und KI-gestützter Angebote werden vereinbart.",
+     "Analyse von Medienlogiken, Plattformmechanismen und KI-gestützten Informationsangeboten wird in Unterrichtsvorhaben und Medienbildung verankert.",
+     "Kritische Medienbildung, Demokratiebildung und KI-Reflexion werden als gemeinsame Aufgabe von Schul- und Unterrichtsentwicklung weiterentwickelt."
+    ],
+    "pruefungskultur": [
+     "Informationsqualität, Quellenbezug und Transparenz werden in einfachen Leistungsaufgaben sichtbar gemacht.",
+     "Begründete Analyse, Quellenprüfung und Einordnung von Medien- und KI-Angeboten werden in Leistungsformaten berücksichtigt.",
+     "Prüfungsformate machen kritische Medienanalyse, demokratische Urteilskraft und Reflexion gesellschaftlicher Wirkungen sichtbar."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Wie erkennen unsere Schülerinnen und Schüler Merkmale digitaler Medien, Medienlogiken und KI-gestützter Informationsangebote?",
+     "Wie prüfen sie Informationsqualität, Quellen und Darstellungsformen?",
+     "Wie reflektieren sie algorithmische Sichtbarkeit, Personalisierung und mögliche Verzerrungen?",
+     "Wie ordnen sie Wirkungen auf Meinungsbildung, Teilhabe, Öffentlichkeit und Demokratie ein?"
+    ],
+    "lehrkraefte": [
+     "Welche Kriterien zur Analyse und Bewertung digitaler Medien und KI-gestützter Informationen nutzen wir bereits?",
+     "Wie lassen wir Lernende Informationsangebote, Plattformmechanismen und KI-Ausgaben vergleichen?",
+     "Wie fördern wir Quellenprüfung, Perspektivwechsel und begründete Urteilsbildung?",
+     "Wie thematisieren wir gesellschaftliche Wirkungen digitaler und KI-geprägter Öffentlichkeiten?"
+    ],
+    "schulentwicklung": [
+     "Welche gemeinsamen Kriterien zur Bewertung digitaler Informationen und KI-gestützter Angebote liegen bereits vor?",
+     "Wo sind Medienlogiken, Plattformmechanismen und KI-gestützte Informationsangebote in Unterrichtsvorhaben verankert?",
+     "Wie verbinden wir Medienbildung, Demokratiebildung und KI-Reflexion?",
+     "Wie entwickeln wir ein gemeinsames Verständnis kritischer Medienbildung im Kontext von KI weiter?"
+    ],
+    "pruefungskultur": [
+     "Wie werden Informationsqualität, Quellenbezug und Transparenz in Leistungsaufgaben sichtbar gemacht?",
+     "Wie werden begründete Analyse, Quellenprüfung und Einordnung von Medien- und KI-Angeboten berücksichtigt?",
+     "Welche Leistungsformate machen demokratische Urteilskraft und Perspektivwechsel sichtbar?",
+     "Wie kann Reflexion über gesellschaftliche Wirkungen digitaler Medien und KI Teil von Prüfungskultur werden?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Beispiele für algorithmische Sichtbarkeit, Personalisierung oder Verzerrung sammeln und auswerten.",
+     "perspektiven": [
+      "lernende"
+     ]
+    },
+    {
+     "text": "Beispiele für Desinformation, einseitige Darstellung oder manipulative Medienlogiken analysieren lassen.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Reflexionsfragen zu Meinungsbildung, Öffentlichkeit, Teilhabe und Demokratie in Aufgabenstellungen aufnehmen.",
+     "perspektiven": [
+      "lernende"
+     ]
+    },
+    {
+     "text": "Ein einfaches Kriterienraster zur Bewertung digitaler Medien und KI-gestützter Informationsangebote einführen.",
+     "perspektiven": [
+      "lernende"
+     ]
+    },
+    {
+     "text": "Medienlogiken und Plattformmechanismen in bestehende Unterrichtsvorhaben zur Medienbildung integrieren.",
+     "perspektiven": [
+      "lernende"
+     ]
+    },
+    {
+     "text": "Eine Unterrichtssequenz entwickeln, in der Lernende Quellen, Darstellungsformen und KI-Ausgaben vergleichen.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Fachschaftlich abstimmen, welche Kriterien für die Bewertung KI-gestützter Informationsangebote genutzt werden.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Aufgabenformate entwickeln, in denen Informationsqualität, Quellenprüfung und Begründung sichtbar werden.",
+     "perspektiven": [
+      "lehrkraefte",
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Ein Leistungsformat erproben, das kritische Medienanalyse und Reflexion gesellschaftlicher Wirkungen verbindet.",
+     "perspektiven": [
+      "lernende"
+     ]
+    },
+    {
+     "text": "Medienbildung, Demokratiebildung und KI-Reflexion in Schul- oder Medienkonzepten stärker miteinander verknüpfen.",
+     "perspektiven": [
+      "schulentwicklung",
+      "pruefungskultur"
+     ]
+    }
+   ]
+  },
+  "6.2": {
+   "id": "6.2",
+   "titel": "Gesellschaftliche Wirkungen digitaler Medien verstehen und reflektieren",
+   "reflexionsfrage": "Wie reflektieren Lernende die Rolle von KI für Lernen, Arbeit, Gesellschaft, Kultur und Bildung?",
+   "raster": {
+    "lernende": [
+     "benennen Chancen und Risiken von KI im Alltag.",
+     "beschreiben, wie KI Lernen, Kommunikation oder Arbeit beeinflusst, und reflektieren eigene KI-Nutzung anhand fachlicher, ethischer und sozialer Kriterien.",
+     "analysieren KI als Teil gesellschaftlicher Veränderung und entwickeln begründete Haltungen."
+    ],
+    "lehrkraefte": [
+     "schaffen Gesprächsanlässe zu Alltagserfahrungen mit KI.",
+     "nutzen Fallbeispiele zu Chancen, Risiken und Verantwortung und verknüpfen KI-Reflexion mit Fachinhalten und Medienbildung.",
+     "fördern multiperspektivische Urteilsbildung und Zukunftskompetenz."
+    ],
+    "schulentwicklung": [
+     "KI wird als Schulentwicklungsthema sichtbar gemacht.",
+     "Austausch, Fortbildung und gemeinsame Leitfragen werden organisiert; KI-Reflexion wird in Medienkonzept und Schulprogramm verankert.",
+     "Eine reflektierte Strategie zu Lernen, Lehren, Prüfen und Schulkultur mit KI wird entwickelt."
+    ],
+    "pruefungskultur": [
+     "KI wird als Reflexionsgegenstand in Leistungsaufgaben aufgenommen.",
+     "Begründete Positionen mit Beispielen und Quellen werden eingefordert; Urteilsfähigkeit, Abwägung und Transfer werden bewertet.",
+     "Prüfungsformate verbinden Zukunftsfragen, Ethik und fachliche Perspektiven."
+    ]
+   },
+   "reflexionsanlaesse": {
+    "lernende": [
+     "Welche Chancen und Risiken von KI erleben unsere Schülerinnen und Schüler im Alltag?",
+     "Wie beeinflusst KI ihr Lernen, ihre Kommunikation oder Vorstellungen von Arbeit?",
+     "Nach welchen fachlichen, ethischen und sozialen Kriterien reflektieren sie ihre eigene KI-Nutzung?",
+     "Wie analysieren sie KI als Teil gesellschaftlicher Veränderung und entwickeln begründete Haltungen?"
+    ],
+    "lehrkraefte": [
+     "Welche Gesprächsanlässe zu Alltagserfahrungen mit KI schaffen wir?",
+     "Welche Fallbeispiele zu Chancen, Risiken und Verantwortung nutzen wir?",
+     "Wie verknüpfen wir KI-Reflexion mit Fachinhalten und Medienbildung?",
+     "Wie fördern wir multiperspektivische Urteilsbildung und Zukunftskompetenz?"
+    ],
+    "schulentwicklung": [
+     "Wie wird KI als Schulentwicklungsthema sichtbar gemacht?",
+     "Wie organisieren wir Austausch, Fortbildung und gemeinsame Leitfragen?",
+     "Wie wird KI-Reflexion in Medienkonzept und Schulprogramm verankert?",
+     "Wie entwickeln wir eine reflektierte Strategie zu Lernen, Lehren, Prüfen und Schulkultur mit KI?"
+    ],
+    "pruefungskultur": [
+     "Wie wird KI als Reflexionsgegenstand in Leistungsaufgaben aufgenommen?",
+     "Wie werden begründete Positionen mit Beispielen und Quellen eingefordert?",
+     "Wie werden Urteilsfähigkeit, Abwägung und Transfer bewertet?",
+     "Wie können Prüfungsformate Zukunftsfragen, Ethik und fachliche Perspektiven verbinden?"
+    ]
+   },
+   "impulse": [
+    {
+     "text": "Einen Reflexionsbogen zu Chancen und Risiken von KI im Alltag erproben.",
+     "perspektiven": [
+      "lernende"
+     ]
+    },
+    {
+     "text": "Fallbeispiele zu Verantwortung, Teilhabe, Arbeit, Lernen und Kommunikation sammeln.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Ein Fallbeispiel zu Lernen, Arbeit oder Kommunikation mit KI im Unterricht diskutieren.",
+     "perspektiven": [
+      "pruefungskultur"
+     ]
+    },
+    {
+     "text": "Eigene KI-Nutzung anhand fachlicher, ethischer und sozialer Kriterien reflektieren lassen.",
+     "perspektiven": [
+      "lernende"
+     ]
+    },
+    {
+     "text": "Austausch und Fortbildung zu gesellschaftlichen Wirkungen von KI organisieren.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    },
+    {
+     "text": "Gemeinsame Leitfragen zu gesellschaftlichen Wirkungen von KI im Kollegium abstimmen.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Ein Aufgabenformat mit begründeter Positionierung zu KI und Gesellschaft pilotieren.",
+     "perspektiven": [
+      "lernende"
+     ]
+    },
+    {
+     "text": "Eine schulische Strategie zu Lernen, Lehren, Prüfen und Schulkultur mit KI vorbereiten.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "KI-Reflexion im Medienkonzept oder Schulprogramm ergänzen.",
+     "perspektiven": [
+      "schulentwicklung"
+     ]
+    },
+    {
+     "text": "Prüfungsformate zu Zukunftsfragen, Ethik und fachlicher Perspektive weiterentwickeln.",
+     "perspektiven": [
+      "lehrkraefte"
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -431,3 +431,111 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 .app-einstieg strong { display: block; font-size: 20px; }
 .app-einstieg .zusatz { display: block; font-size: 15px; opacity: .92; }
 .app-einstieg .pfeil { width: 30px; height: 30px; }
+
+/* ---------------------------------------------------------
+   ROUTEN: Auswahl oben links, Rundweg färbt sich
+   --------------------------------------------------------- */
+.routen {
+  position: absolute;
+  left: calc(100 * var(--u)); top: calc(70 * var(--u));
+  width: calc(700 * var(--u));
+  z-index: 4;
+}
+.routen-kopf {
+  display: flex; align-items: center; justify-content: flex-start; gap: calc(12 * var(--u));
+  margin: 0 0 calc(10 * var(--u));
+  min-height: calc(40 * var(--u));
+  font-size: calc(21.5 * var(--u)); font-weight: 700; color: var(--gruen-dunkel);
+}
+.routen-start {
+  display: inline-flex; align-items: center; gap: calc(10 * var(--u));
+  padding: calc(6 * var(--u)) calc(16 * var(--u));
+  border-radius: 999px;
+  background: var(--routenfarbe, var(--gruen-mittel)); color: var(--weiss);
+  text-decoration: none;
+}
+.routen-start[hidden] { display: none; }
+.routen-start .pfeil { width: calc(26 * var(--u)); height: calc(26 * var(--u)); }
+.routen-knoepfe { display: flex; gap: calc(8 * var(--u)); }
+.routen-knoepfe button {
+  display: flex; align-items: center; justify-content: center; gap: calc(7 * var(--u));
+  padding: calc(8 * var(--u)) calc(12 * var(--u)) calc(8 * var(--u)) calc(9 * var(--u));
+  font: inherit; font-size: calc(16.5 * var(--u)); white-space: nowrap; font-weight: 700; color: var(--gruen-dunkel);
+  background: var(--weiss);
+  border: calc(2 * var(--u)) solid var(--gruen-rand);
+  border-radius: calc(14 * var(--u));
+  cursor: pointer;
+  transition: background .2s, border-color .2s, color .2s;
+}
+.routen-knoepfe img {
+  width: calc(26 * var(--u)); height: calc(26 * var(--u)); flex: none;
+  filter: grayscale(1) opacity(.65);           /* im Normalzustand nicht bunt */
+  transition: filter .2s;
+}
+.routen-knoepfe button:hover { background: var(--gruen-hell); }
+.routen-knoepfe button:hover img { filter: none; }
+.routen-knoepfe button[aria-pressed="true"] {
+  background: var(--weiss);
+  border-color: var(--routenfarbe);
+  color: var(--routenfarbe);
+  box-shadow: 0 0 0 calc(2 * var(--u)) var(--routenfarbe) inset;
+}
+.routen-knoepfe button[aria-pressed="true"] img { filter: none; }
+
+/* Rundweg: färbt sich nur, wenn eine Route gewählt ist */
+.stege .ring path { transition: stroke .45s ease; }
+.karte[data-route] .stege .ring path { stroke: var(--routenfarbe); }
+.karte[data-route] .stege > path { stroke: #d9e8c9; transition: stroke .45s ease; }
+
+/* ---------------------------------------------------------
+   ROUTENSEITE
+   --------------------------------------------------------- */
+.route-kopf { border-color: var(--routenfarbe, var(--gruen-rand)); }
+.route-kopf .rubrik { color: var(--routenfarbe, var(--gruen-mittel)); }
+.route-reiter a[aria-current="page"] { color: var(--routenfarbe); }
+.stationen {
+  position: sticky; top: 0; z-index: 3;
+  display: flex; gap: 6px; flex-wrap: wrap;
+  margin: 0 0 24px; padding: 10px 0;
+  background: rgba(255, 255, 255, .95);
+}
+.station-knopf {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 6px 12px 6px 6px;
+  font: inherit; font-size: 14px; font-weight: 700; color: var(--gruen-dunkel);
+  background: var(--gruen-hell); border: 2px solid var(--gruen-rand); border-radius: 999px;
+  cursor: pointer;
+}
+.station-knopf:hover { background: var(--gruen-hover); }
+.station-nr {
+  display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 50%;
+  background: var(--routenfarbe, var(--gruen-mittel)); color: var(--weiss); font-size: 14px;
+}
+.station { margin: 0 0 40px; scroll-margin-top: 130px; }
+.station-kopf { display: grid; grid-template-columns: auto 1fr; gap: 18px; align-items: center; margin-bottom: 16px; }
+.station-kopf .nummer { width: 56px; height: 56px; font-size: 28px; }
+.station-label { font-size: 13px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; color: var(--routenfarbe, var(--gruen-mittel)); }
+.station-kopf h2 { margin: 2px 0 0; font-size: 26px; color: var(--gruen-dunkel); }
+.station-kopf .unterzeile { margin: 2px 0 0; color: var(--gruen-dunkel); }
+.route-karte {
+  margin: 0 0 18px; padding: 18px 22px;
+  border: 2px solid var(--gruen-rand); border-left: 6px solid var(--routenfarbe, var(--gruen-rand));
+  border-radius: 16px;
+}
+.route-karte h3 { margin: 0 0 10px; font-size: 20px; color: var(--gruen-dunkel); }
+.route-karte h4 { margin: 16px 0 6px; font-size: 13px; letter-spacing: .05em; text-transform: uppercase; color: var(--routenfarbe, var(--gruen-mittel)); }
+.route-raster { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.route-raster li { padding: 10px 12px; background: #f6f9f1; border-radius: 10px; font-size: 15px; }
+.route-raster .stufe { display: block; margin-bottom: 4px; font-size: 13px; font-weight: 700; color: var(--gruen-dunkel); }
+.route-fragen, .route-impulse { margin: 0; padding-left: 20px; }
+.route-fragen li, .route-impulse li { margin: 4px 0; }
+.route-impulse li::marker { content: '→  '; color: var(--routenfarbe, var(--gruen-mittel)); }
+.weiter-station {
+  display: block; margin: 8px 0 0 auto; padding: 8px 14px;
+  font: inherit; font-weight: 700; color: var(--gruen-dunkel);
+  background: none; border: 2px solid var(--gruen-rand); border-radius: 10px; cursor: pointer;
+}
+.weiter-station:hover { background: var(--gruen-hell); }
+.route-ziel { padding: 16px 20px; background: var(--gruen-hell); border-radius: 14px; }
+.route-quelle { font-size: 14px; color: #4b6152; }
+@media (max-width: 700px) { .route-raster { grid-template-columns: 1fr; } }
