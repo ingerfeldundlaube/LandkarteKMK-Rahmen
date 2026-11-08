@@ -415,3 +415,19 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 @media (max-width: 680px) { .schritt { grid-template-columns: 1fr; } }
 
 .kachel span.herkunft { display: block; font-size: 14px; color: var(--gruen-mittel); font-weight: 700; margin: 2px 0 4px; }
+
+/* Großer Einstieg in die Bereichsansicht der Reflexionskarten-App */
+.app-einstieg {
+  display: grid; grid-template-columns: 56px 1fr 32px; gap: 18px; align-items: center;
+  margin: -8px 0 28px; padding: 20px 24px;
+  background: var(--gruen-mittel); color: var(--weiss);
+  border-radius: 18px; text-decoration: none;
+  box-shadow: 0 6px 18px rgba(11, 74, 44, .18);
+  transition: background .15s, transform .15s;
+}
+.app-einstieg:hover, .app-einstieg:focus-visible { background: var(--gruen-dunkel); transform: translateY(-1px); }
+.app-einstieg .kreis { width: 52px; height: 52px; border-radius: 50%; background: var(--weiss); color: var(--gruen-mittel); display: grid; place-items: center; }
+.app-einstieg .kreis svg { width: 28px; height: 28px; }
+.app-einstieg strong { display: block; font-size: 20px; }
+.app-einstieg .zusatz { display: block; font-size: 15px; opacity: .92; }
+.app-einstieg .pfeil { width: 30px; height: 30px; }
