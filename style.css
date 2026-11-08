@@ -629,3 +629,21 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 /* Mitte der Landkarte: Einstieg ins Unterstützungsmaterial dunkelgrün */
 .mitte .knopf-mitte { background: var(--gruen-mittel); border-color: var(--gruen-mittel); color: var(--weiss); }
 .mitte .knopf-mitte:hover, .mitte .knopf-mitte:focus-visible { background: var(--gruen-dunkel); border-color: var(--gruen-dunkel); }
+
+/* Kopfkasten der Unterseiten: dunkelgrün wie die Kopfzeile der Reflexionskarten-Apps */
+.kopf {
+  background: linear-gradient(135deg, #0b4a2c 0%, #1f6b33 70%, #2f7d32 100%);
+  border-color: transparent;
+  color: var(--weiss);
+  box-shadow: 0 6px 22px rgba(11, 74, 44, .22);
+}
+.kopf h1, .kopf .unterzeile { color: var(--weiss); }
+.kopf .rubrik, .route-kopf .rubrik { color: #c9e6a6; }
+.kopf .nummer { background: var(--weiss); color: var(--gruen-dunkel); }
+.route-kopf { border-color: transparent; box-shadow: inset 6px 0 0 var(--routenfarbe, transparent), 0 6px 22px rgba(11, 74, 44, .22); }
+
+/* Einstieg auf den Wortlaut-Seiten: hellgrün wie der Insel-Button (unter dem dunklen Kopf) */
+.app-einstieg { background: #e1edd2; color: var(--gruen-dunkel); border: 2px solid #7fb546; box-shadow: none; }
+.app-einstieg:hover, .app-einstieg:focus-visible { background: #d2e5bc; }
+.app-einstieg .kreis { border: 2px solid var(--gruen-rand); }
+.app-einstieg .zusatz { opacity: 1; }
