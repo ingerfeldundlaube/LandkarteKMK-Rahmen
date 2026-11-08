@@ -562,3 +562,25 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 .routen-start, .routen-lesen { flex: none; }
 /* Gewählte Route: kleines × zeigt, dass ein zweiter Klick die Karte wieder grün macht */
 .routen-knoepfe button[aria-pressed="true"]::after { content: '×'; margin-left: calc(4 * var(--u)); font-size: 1.2em; line-height: 1; }
+
+/* Mitte: Auswahl nach Perspektive bzw. Kompetenzbereich */
+.kachel.auswahl { grid-template-columns: 48px 1fr; align-items: start; }
+.kachel.auswahl:hover { background: var(--gruen-hell); }
+.auswahl-knoepfe { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 8px; margin-top: 10px; }
+.auswahl-knoepfe.bereiche { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
+.auswahl-knopf {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 7px 12px 7px 8px;
+  font-size: 15px; font-weight: 700; text-decoration: none; color: var(--gruen-dunkel);
+  background: var(--weiss); border: 2px solid var(--gruen-rand); border-radius: 999px;
+  transition: border-color .15s, color .15s;
+}
+.auswahl-knopf img { width: 24px; height: 24px; filter: grayscale(1) opacity(.7); transition: filter .15s; }
+.auswahl-knopf:hover, .auswahl-knopf:focus-visible { border-color: var(--farbe, var(--gruen-mittel)); color: var(--farbe, var(--gruen-dunkel)); }
+.auswahl-knopf:hover img, .auswahl-knopf:focus-visible img { filter: none; }
+.auswahl-knopf.bereich { border-radius: 12px; }
+.mini-nr {
+  display: inline-grid; place-items: center; flex: none; width: 24px; height: 24px; border-radius: 50%;
+  background: var(--gruen-mittel); color: var(--weiss); font-size: 13px;
+}
+.kreis.ais { font-weight: 700; font-size: 15px; color: var(--gruen-mittel); }
