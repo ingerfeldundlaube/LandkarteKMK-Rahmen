@@ -440,8 +440,8 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
   left: calc(1540 * var(--u)); top: calc(1192 * var(--u));
   width: calc(665 * var(--u));
   padding: calc(18 * var(--u)) calc(22 * var(--u)) calc(20 * var(--u));
-  background: var(--weiss);
-  border: calc(2 * var(--u)) solid #d5e3c4;
+  background: var(--gruen-hell);
+  border: calc(2 * var(--u)) solid var(--gruen-rand);
   border-radius: calc(24 * var(--u));
   z-index: 4;
 }
@@ -472,16 +472,16 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 }
 .routen-knoepfe button span { line-height: 1.15; }
 .routen-knoepfe .weg { flex: none; width: calc(46 * var(--u)); height: calc(12 * var(--u)); }
-.routen-knoepfe .weg path { stroke: #b9c9ad; stroke-width: 7; stroke-linecap: round; transition: stroke .3s; }
+.routen-knoepfe .weg path { stroke: #a9bf98; stroke-width: 7; stroke-linecap: round; transition: stroke .3s; }
 .routen-knoepfe img {
   flex: none; width: calc(28 * var(--u)); height: calc(28 * var(--u));
   filter: grayscale(1) opacity(.65);           /* im Normalzustand nicht bunt */
   transition: filter .2s;
 }
-.routen-knoepfe button:hover { background: var(--gruen-hell); }
+.routen-knoepfe button:hover { background: var(--weiss); }
 .routen-knoepfe button:hover img { filter: none; }
 .routen-knoepfe button:hover .weg path { stroke: var(--farbe); }
-.routen-knoepfe button[aria-pressed="true"] { background: var(--gruen-hell); color: var(--routenfarbe); }
+.routen-knoepfe button[aria-pressed="true"] { background: var(--weiss); color: var(--routenfarbe); }
 .routen-knoepfe button[aria-pressed="true"] img { filter: none; }
 .routen-knoepfe button[aria-pressed="true"] .weg path { stroke: var(--routenfarbe); }
 
@@ -551,9 +551,10 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 @media (max-width: 700px) { .route-raster { grid-template-columns: 1fr; } }
 
 /* Dritter Button je Insel: direkt in die Bereichs-App */
-.knopf-app { background: var(--gruen-mittel); border-color: var(--gruen-mittel); color: var(--weiss); }
-.knopf-app:hover, .knopf-app:focus-visible { background: var(--gruen-dunkel); }
-.knopf-app .kreis { color: var(--gruen-mittel); border-color: var(--weiss); }
+/* sanfter als zuvor: hellgrün wie die Buttons der Originalgrafik, etwas kräftiger umrandet */
+.knopf-app { background: #e1edd2; border-color: #7fb546; color: var(--gruen-dunkel); }
+.knopf-app:hover, .knopf-app:focus-visible { background: #d2e5bc; }
+.knopf-app .kreis { color: var(--gruen-mittel); border-color: var(--gruen-rand); }
 .routen-lesen { font-size: calc(18 * var(--u)); white-space: nowrap; font-weight: 700; color: var(--gruen-dunkel); }
 .routen-lesen[hidden] { display: none; }
 
