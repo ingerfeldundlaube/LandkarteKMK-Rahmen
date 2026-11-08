@@ -483,9 +483,8 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 .routen-knoepfe button[aria-pressed="true"] img { filter: none; }
 
 /* Rundweg: färbt sich nur, wenn eine Route gewählt ist */
-.stege .ring path { transition: stroke .45s ease; }
-.karte[data-route] .stege .ring path { stroke: var(--routenfarbe); }
-.karte[data-route] .stege > path { stroke: #d9e8c9; transition: stroke .45s ease; }
+.stege path { transition: stroke .45s ease; }
+.karte[data-route] .stege path { stroke: var(--routenfarbe); }
 
 /* ---------------------------------------------------------
    ROUTENSEITE
