@@ -364,18 +364,19 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
   position: absolute; right: 0; top: 100%;
   margin: calc(8 * var(--u)) 0 0; padding: calc(8 * var(--u));
   list-style: none;
-  width: calc(400 * var(--u)); min-width: 230px;
-  background: var(--weiss);
-  border: 2px solid var(--gruen-rand);
+  width: calc(460 * var(--u)); min-width: 260px;
+  background: var(--gruen-hell);
+  border: 2px solid var(--gruen-mittel);
   border-radius: 14px;
-  box-shadow: 0 10px 28px rgba(11, 74, 44, .18);
+  box-shadow: 0 12px 32px rgba(11, 74, 44, .28);
 }
 .info-liste a {
   display: block; padding: 10px 14px; border-radius: 10px;
   font-weight: 700; font-size: max(14px, calc(21 * var(--u)));
   text-decoration: none; color: var(--gruen-dunkel);
 }
-.info-liste a:hover, .info-liste a:focus-visible { background: var(--gruen-hell); }
+.info-liste a:hover, .info-liste a:focus-visible { background: var(--weiss); }
+.info-liste li + li { border-top: 1px solid #cfe1b8; }
 
 /* Reiter auf den Informationsseiten */
 .reiter { margin: -12px 0 28px; }
