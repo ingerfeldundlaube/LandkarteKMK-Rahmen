@@ -51,7 +51,7 @@ a { color: var(--gruen-dunkel); }
   --u: calc(100cqw / 2300);
   position: relative;
   width: 100%;
-  aspect-ratio: 2300 / 1360;
+  aspect-ratio: 2300 / 1500;
 }
 
 .stege {
@@ -66,7 +66,7 @@ a { color: var(--gruen-dunkel); }
   left:  calc(var(--x) * var(--u));
   top:   calc(var(--y) * var(--u));
   width: calc(665 * var(--u));
-  height: calc(322 * var(--u));
+  height: calc(410 * var(--u));
   background: var(--weiss);
   border: calc(3 * var(--u)) solid var(--gruen-rand);
   border-radius: calc(36 * var(--u));
@@ -538,3 +538,10 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 .route-ziel { padding: 16px 20px; background: var(--gruen-hell); border-radius: 14px; }
 .route-quelle { font-size: 14px; color: #4b6152; }
 @media (max-width: 700px) { .route-raster { grid-template-columns: 1fr; } }
+
+/* Dritter Button je Insel: direkt in die Bereichs-App */
+.knopf-app { background: var(--gruen-mittel); border-color: var(--gruen-mittel); color: var(--weiss); }
+.knopf-app:hover, .knopf-app:focus-visible { background: var(--gruen-dunkel); }
+.knopf-app .kreis { color: var(--gruen-mittel); border-color: var(--weiss); }
+.routen-lesen { font-size: calc(18 * var(--u)); font-weight: 700; color: var(--gruen-dunkel); }
+.routen-lesen[hidden] { display: none; }

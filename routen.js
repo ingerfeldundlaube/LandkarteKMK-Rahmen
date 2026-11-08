@@ -1,10 +1,12 @@
 /* Landkarte: Route wählen.
-   Ein Klick auf eine Perspektive färbt den Rundweg zwischen den Inseln in ihrer Farbe
-   und zeigt „Route starten“. Ein zweiter Klick (oder Esc) macht die Karte wieder grün. */
+   Ein Klick auf eine Perspektive färbt die Wege zwischen den Inseln in ihrer Farbe
+   und zeigt „Route starten“ (Routen-App) und „Überblick lesen“ (route.html). Ein zweiter Klick (oder Esc) macht die Karte wieder grün. */
 (function () {
   var karte = document.querySelector('.karte');
   var knoepfe = document.querySelectorAll('.routen-knoepfe button');
   var start = document.querySelector('.routen-start');
+  var lesen = document.querySelector('.routen-lesen');
+  var APP = start.getAttribute('href');
   var titel = document.querySelector('.routen-titel');
   if (!karte || !knoepfe.length) return;
 
@@ -13,12 +15,15 @@
     if (knopf) {
       karte.setAttribute('data-route', knopf.dataset.route);
       karte.style.setProperty('--routenfarbe', knopf.dataset.farbe);
-      start.href = 'route.html#' + knopf.dataset.route;
+      start.href = APP + 'route-' + knopf.dataset.route + '/';
       start.hidden = false;
+      lesen.href = 'route.html#' + knopf.dataset.route;
+      lesen.hidden = false;
       titel.textContent = 'Route: ' + knopf.dataset.name;
     } else {
       karte.removeAttribute('data-route');
       start.hidden = true;
+      lesen.hidden = true;
       titel.textContent = 'Route durch alle Bereiche';
     }
   }
