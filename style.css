@@ -51,7 +51,7 @@ a { color: var(--gruen-dunkel); }
   --u: calc(100cqw / 2300);
   position: relative;
   width: 100%;
-  aspect-ratio: 2300 / 1420;
+  aspect-ratio: 2300 / 1480;
 }
 
 .stege {
@@ -437,8 +437,8 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
    --------------------------------------------------------- */
 .routen {
   position: absolute;
-  left: calc(1540 * var(--u)); top: calc(1192 * var(--u));
-  width: calc(665 * var(--u));
+  left: calc(1565 * var(--u)); top: calc(1250 * var(--u));
+  width: calc(640 * var(--u));
   padding: calc(18 * var(--u)) calc(22 * var(--u)) calc(20 * var(--u));
   background: var(--gruen-hell);
   border: calc(2 * var(--u)) solid var(--gruen-rand);
@@ -461,7 +461,7 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
 }
 .routen-start[hidden] { display: none; }
 .routen-start .pfeil { width: calc(26 * var(--u)); height: calc(26 * var(--u)); }
-.routen-knoepfe { display: grid; grid-template-columns: 1fr 1fr; gap: calc(6 * var(--u)) calc(16 * var(--u)); }
+.routen-knoepfe { display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); gap: calc(6 * var(--u)) calc(16 * var(--u)); }
 .routen-knoepfe button {
   display: flex; align-items: center; gap: calc(10 * var(--u));
   padding: calc(6 * var(--u)) calc(8 * var(--u));
@@ -470,8 +470,8 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
   cursor: pointer;
   transition: background .2s, color .2s;
 }
-.routen-knoepfe button span { line-height: 1.15; }
-.routen-knoepfe .weg { flex: none; width: calc(46 * var(--u)); height: calc(12 * var(--u)); }
+.routen-knoepfe button span { line-height: 1.15; min-width: 0; }
+.routen-knoepfe .weg { flex: none; width: calc(32 * var(--u)); height: calc(12 * var(--u)); }
 .routen-knoepfe .weg path { stroke: #a9bf98; stroke-width: 7; stroke-linecap: round; transition: stroke .3s; }
 .routen-knoepfe img {
   flex: none; width: calc(28 * var(--u)); height: calc(28 * var(--u));
