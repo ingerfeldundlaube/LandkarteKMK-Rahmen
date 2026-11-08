@@ -19,17 +19,18 @@
       start.hidden = false;
       lesen.href = 'route.html#' + knopf.dataset.route;
       lesen.hidden = false;
-      titel.textContent = 'Route: ' + knopf.dataset.kurz;
+      titel.textContent = knopf.dataset.kurz;
       titel.title = 'Route: ' + knopf.dataset.name;
     } else {
       karte.removeAttribute('data-route');
       start.hidden = true;
       lesen.hidden = true;
-      titel.textContent = 'Route durch alle Bereiche';
+      titel.textContent = 'Routen durch alle Bereiche';
       titel.removeAttribute('title');
     }
   }
 
+  knoepfe.forEach(function (k) { k.style.setProperty('--farbe', k.dataset.farbe); });
   knoepfe.forEach(function (k) {
     k.addEventListener('click', function () {
       setze(k.getAttribute('aria-pressed') === 'true' ? null : k);
