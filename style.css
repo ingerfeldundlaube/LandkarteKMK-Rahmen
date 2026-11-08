@@ -51,7 +51,7 @@ a { color: var(--gruen-dunkel); }
   --u: calc(100cqw / 2300);
   position: relative;
   width: 100%;
-  aspect-ratio: 2300 / 1580;
+  aspect-ratio: 2300 / 1420;
 }
 
 .stege {
@@ -66,7 +66,7 @@ a { color: var(--gruen-dunkel); }
   left:  calc(var(--x) * var(--u));
   top:   calc(var(--y) * var(--u));
   width: calc(665 * var(--u));
-  height: calc(410 * var(--u));
+  height: calc(280 * var(--u));
   background: var(--weiss);
   border: calc(3 * var(--u)) solid var(--gruen-rand);
   border-radius: calc(36 * var(--u));
@@ -437,7 +437,7 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
    --------------------------------------------------------- */
 .routen {
   position: absolute;
-  left: calc(1540 * var(--u)); top: calc(1372 * var(--u));
+  left: calc(1540 * var(--u)); top: calc(1192 * var(--u));
   width: calc(665 * var(--u));
   padding: calc(18 * var(--u)) calc(22 * var(--u)) calc(20 * var(--u));
   background: var(--weiss);
@@ -584,3 +584,13 @@ h2.abschnitt { color: var(--gruen-dunkel); font-size: 22px; margin: 36px 0 14px;
   background: var(--gruen-mittel); color: var(--weiss); font-size: 13px;
 }
 .kreis.ais { font-weight: 700; font-size: 15px; color: var(--gruen-mittel); }
+
+/* Inseln: ein Hauptbutton, darunter zwei Textlinks */
+.textlinks {
+  display: flex; flex-wrap: wrap; align-items: center; gap: calc(6 * var(--u)) calc(14 * var(--u));
+  margin: calc(4 * var(--u)) 0 0; padding-left: calc(6 * var(--u));
+  font-size: calc(19 * var(--u)); color: var(--gruen-dunkel);
+}
+.textlinks a { font-weight: 700; color: var(--gruen-dunkel); text-decoration: underline; text-decoration-color: var(--gruen-rand); text-underline-offset: calc(5 * var(--u)); }
+.textlinks a:hover, .textlinks a:focus-visible { text-decoration-color: var(--gruen-dunkel); }
+.textlinks span { color: var(--gruen-rand); }
